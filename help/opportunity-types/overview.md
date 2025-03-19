@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer-säljprojekttyper
 description: Läs mer om de viktigaste möjligheterna i Sites Optimizer och hur de kan hjälpa dig att förbättra webbplatsens prestanda.
-source-git-commit: 383e0431354d8d88838f1319e37b773308dddb6d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -13,51 +13,26 @@ ht-degree: 0%
 
 ![Affärsmöjlighetstyper](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer ger värdefull information och rekommendationer som hjälper dig att förbättra webbplatsens prestanda, användbarhet och säkerhet. Dessa insikter grupperas i nyckelområden: engagemang, trafikvärvning, säkerhetsläge, webbplatshälsa och optimering av formulär. Varje kategori beskriver specifika sätt att förbättra webbplatsen, antingen genom att öka besökarinteraktionen, förbättra upptäckbarheten, stärka säkerheten, bibehålla webbplatsens stabilitet eller optimera formulärprestanda.
+AEM Sites Optimizer ger värdefull information och rekommendationer som hjälper dig att förbättra webbplatsens prestanda, användbarhet och säkerhet. Dessa insikter grupperas i nyckelområden: engagemang, trafikvärvning, säkerhetsläge och webbplatshälsa. Varje kategori beskriver specifika sätt att förbättra webbplatsen, antingen genom att öka besökarinteraktionen, förbättra upptäckbarheten, stärka säkerheten eller upprätthålla webbplatsens stabilitet.
 
-Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, locka rätt målgrupp och säkra och tillförlitliga webbplatser. Ökat engagemang och ökad trafik skapar interaktion och ökad synlighet, samtidigt som en stark säkerhetsposition och webbplatshälsa bidrar till att säkra tillit och stabilitet. Optimering av formulär kan också öka konverteringsgraden. Utforska länkarna nedan för att se möjligheter ordnade efter kategori och hitta sätt att förbättra webbplatsen.
+Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, locka rätt målgrupp och säkra och tillförlitliga webbplatser. Ökat engagemang och ökad trafik skapar interaktion och ökad synlighet, samtidigt som en stark säkerhetsposition och webbplatshälsa bidrar till att säkra tillit och stabilitet.  Utforska länkarna nedan för att se möjligheter ordnade efter kategori och hitta sätt att förbättra webbplatsen.
 
 ## Typer av affärsmöjligheter
 
 <!-- CARDS 
 
-* ./traffic-acquisition.md
-   { title = Traffic acquisition }
 * ./engagement.md
    { title = Engagement }
-* ./site-health.md
-   { title = Site health }
 * ./security-posture.md
    { title = Security posture }
-* ./form-optimization.md
-   { title = Form optimization }
+* ./site-health.md
+   { title = Site health }
+* ./traffic-acquisition.md
+   { title = Traffic acquisition }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./traffic-acquisition.md" title="Trafikförvärv" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Trafikförvärv"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Trafikförvärv">Trafikförvärv</a>
-                    </p>
-                    <p class="is-size-6">Lär dig hur du kan öka trafiken med Sites Optimizer.</p>
-                </div>
-                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Engagement">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -76,29 +51,6 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
                     <p class="is-size-6">Lär dig hur ni kan förbättra engagemanget med Sites Optimizer.</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./site-health.md" title="Webbplatshälsa" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Webbplatshälsa"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="Webbplatshälsa">Webbplatshälsa</a>
-                    </p>
-                    <p class="is-size-6">Lär dig hur du kan förbättra webbplatsens hälsa med Sites Optimizer.</p>
-                </div>
-                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -127,12 +79,12 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Form optimization">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Formuläroptimering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Formuläroptimering"
+                    <a href="./site-health.md" title="Webbplatshälsa" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Webbplatshälsa"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,11 +92,34 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formuläroptimering">Formuläroptimering</a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="Webbplatshälsa">Webbplatshälsa</a>
                     </p>
-                    <p class="is-size-6">Läs om formuläroptimering med Sites Optimizer.</p>
+                    <p class="is-size-6">Lär dig hur du kan förbättra webbplatsens hälsa med Sites Optimizer.</p>
                 </div>
-                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./traffic-acquisition.md" title="Trafikförvärv" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Trafikförvärv"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Trafikförvärv">Trafikförvärv</a>
+                    </p>
+                    <p class="is-size-6">Lär dig hur du kan öka trafiken med Sites Optimizer.</p>
+                </div>
+                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>

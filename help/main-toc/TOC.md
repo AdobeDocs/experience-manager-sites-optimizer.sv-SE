@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: 5d57d42623343ef5b968a4dc4368cc9ea4932d9d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 0%
    + [Engagemang](/help/opportunity-types/engagement.md)
    + [Webbplatshälsa](/help/opportunity-types/site-health.md)
    + [Säkerhetsposition](/help/opportunity-types/security-posture.md)
-   + [Formuläroptimering](/help/opportunity-types/form-optimization.md)
 + Dokumentation{#documentation}
    + [Ökning](/help/documentation/overview.md)
    + [Grunderna](/help/documentation/basics.md)
@@ -35,8 +34,6 @@ ht-degree: 0%
       + [Ogiltiga eller saknade metadata](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Saknade eller ogiltiga strukturerade data](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Alt-text saknas](/help/documentation/opportunities/missing-alt-text.md)
-      + [Låga konverteringar](/help/documentation/opportunities/low-conversions.md)
-      + [Låga vyer](/help/documentation/opportunities/low-views.md)
       + [Problem med webbplatskarta](/help/documentation/opportunities/sitemap-issues.md)
       + [Webbplatsbehörigheter](/help/documentation/opportunities/website-permissions.md)
       + [Säkerhetsluckor på webbplatser](/help/documentation/opportunities/website-vulnerabilities.md)
