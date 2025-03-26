@@ -2,7 +2,7 @@
 title: Dokumentation om webbplatskartor för problem med affärsmöjlighet
 description: Lär dig mer om möjligheterna med webbplatskartor och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: d812a49e4b49d329717586b9f3c7a235aff3e69a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -75,8 +75,9 @@ Varje platskartproblem [ som uppfyller filtervillkoren ](#auto-identify) visas i
 
 Vanligtvis innehåller förslag en uppdaterad webbplatssökväg för att korrigera webbplatskartposten. I vissa fall kan de även ge mer detaljerade anvisningar, t.ex. specificera rätt omdirigeringsmål.
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Automatisk optimering av problem med webbplatskarta](./assets/sitemap-issues/auto-optimize.png){align="center"}
 

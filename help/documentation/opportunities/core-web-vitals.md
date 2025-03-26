@@ -2,7 +2,7 @@
 title: Affärsmöjlighet - dokumentation
 description: Läs om de viktigaste möjligheterna med webbartiklar och hur ni kan använda dem för att förbättra trafikförvärvet.
 badgeSiteHealth: label="Webbplatshälsa" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Webbplatshälsa"
-source-git-commit: 81343812472477448fd0ee8be89bd6ae784a9e61
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -42,8 +42,9 @@ Affärsmöjligheterna i de centrala webbartiven ger förslag på AI-genererade l
 
 Varje kategori kan innehålla flera problem så se till att bläddra nedåt för att se en fullständig lista över problem och rekommendationer.  Dessutom finns det två prestandamätningar för både mobil och dator för varje mätvärde.
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Möjlighet att automatiskt optimera viktiga webbinarier](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

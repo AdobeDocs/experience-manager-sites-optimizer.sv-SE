@@ -2,7 +2,7 @@
 title: Dokumentation för ALT-text saknas
 description: Lär dig mer om den saknade alternativa textmöjligheten och hur du kan använda den för att förbättra engagemanget på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,8 +57,9 @@ Du kan välja att ignorera poster i affärsmöjlighetslistan. Om du väljer ikon
 
 >[!ENDTABS]
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Optimera saknad alternativ text automatiskt](./assets/missing-alt-text/auto-optimize.png){align="center"}
 

@@ -2,7 +2,7 @@
 title: Dokumentation om saknade eller ogiltiga strukturerade data
 description: Lär dig mer om den saknade eller ogiltiga strukturerade datamöjligheter och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: 0a333a4055e59c49d3266d8c3ed55d7e60771923
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
@@ -41,8 +41,9 @@ Den ogiltiga eller saknade strukturerade datamöjligheter ger även AI-genererad
 * **Problem** - Ett fält som innehåller antalet problem och en listruta som listar alla problem.
 * **förslagsfält** - En AI-genererad beskrivning och förslag på lämpliga strukturerade datauppdateringar. Du kan bläddra nedåt för ytterligare förslag och problem.
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Automatisk optimering av föreslagna saknade eller ogiltiga strukturerade data](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

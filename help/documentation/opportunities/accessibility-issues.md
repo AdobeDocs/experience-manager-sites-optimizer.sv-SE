@@ -2,7 +2,7 @@
 title: Dokumentation om tillgänglighetsproblem för affärsmöjlighet
 description: Läs mer om möjligheterna med tillgänglighet och hur du använder den för att öka säkerheten på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: fd439ce1e5191005fd79c81aef790f3cc7550e94
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -34,7 +34,9 @@ Möjligheten att skapa tillgänglighetsproblem identifierar hur bra din webbplat
 
 Automatiskt förslag ger AI-genererade rekommendationer i fältet **Så här åtgärdar du problemet**. Där finns en guide om vad som ska göras för att åtgärda problemet.
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Automatisk optimering av tillgänglighetsproblem](./assets/accessibility-issues/auto-optimize.png){align="center"}
 

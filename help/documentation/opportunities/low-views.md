@@ -2,7 +2,7 @@
 title: Dokumentation för affärsmöjlighet för låg vy
 description: Lär dig mer om möjligheterna med låga vyer och hur du kan använda dem för att förbättra engagemanget på din webbplats.
 badgeFormOptimization: label="Formuläroptimering" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formuläroptimering"
-source-git-commit: 258024606c732a4f4d4fe21a9ee36e1e2d3572f5
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -50,8 +50,9 @@ Klicka på varje variant för att förhandsgranska den till höger på skärmen.
 
 >[!ENDTABS]
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Optimera automatiskt låga vyer](./assets/low-views/auto-optimize.png){align="center"}
 

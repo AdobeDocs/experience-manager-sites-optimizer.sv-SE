@@ -2,7 +2,7 @@
 title: Dokumentation om begränsade konverteringsmöjligheter
 description: Läs om möjligheterna till låga konverteringsgrader och hur ni kan använda dem för att förbättra engagemanget på er webbplats.
 badgeFormOptimization: label="Formuläroptimering" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formuläroptimering"
-source-git-commit: f83926c9136e3d83be56faa403bc9609b2ee09df
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -50,8 +50,9 @@ Klicka på varje variant för att förhandsgranska den till höger på skärmen.
 
 >[!ENDTABS]
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Optimera automatiskt låga konverteringar](./assets/low-conversions/auto-optimize.png){align="center"}
 

@@ -2,7 +2,7 @@
 title: Dokumentation om affärsmöjlighet för brutna interna länkar
 description: Lär dig mer om de brutna länkarna och hur du kan använda dem för att förbättra engagemanget på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: 40ed1b3d60bd4eb1e5410c8c76a7d45856a3d79b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -61,8 +61,9 @@ Du kan välja att ignorera poster med de brutna URL-adresserna som mål. Om du v
 >[!ENDTABS]
 
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 

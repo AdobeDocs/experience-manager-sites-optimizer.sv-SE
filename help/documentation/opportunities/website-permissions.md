@@ -2,7 +2,7 @@
 title: Dokumentation för webbplatsbehörigheter för affärsmöjligheter
 description: Läs mer om möjligheterna till webbplatsbehörigheter och hur du använder dem för att öka säkerheten på din webbplats.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: 5d1ae616ddde74f69b73ba5b44297c14b2dea36b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -33,7 +33,9 @@ Funktionen **Behörighetsmöjlighet** för webbplatser identifierar och visar au
 
 Automatiskt förslag ger AI-genererade rekommendationer i fältet **Föreslagna behörigheter**, så att du kan ersätta flaggade behörigheter med säkra alternativ.
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Optimera webbplatsbehörigheter automatiskt](./assets/website-permissions/auto-optimize.png){align="center"}
 

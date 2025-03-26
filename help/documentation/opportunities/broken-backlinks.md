@@ -2,7 +2,7 @@
 title: Dokumentation om affärsmöjlighet som brutits
 description: Lär dig mer om den brutna bakåtlänksmöjligheten och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: d2f8df0515265f6bc983cf906e07e9bf7230becf
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -60,9 +60,9 @@ Du kan välja att ignorera poster med den brutna mål-URL:en. Om du väljer ikon
 
 >[!ENDTABS]
 
+## Automatisk optimering
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
-
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Optimera brutna bakgrunder automatiskt](./assets/broken-backlinks/auto-optimize.png){align="center"}
 

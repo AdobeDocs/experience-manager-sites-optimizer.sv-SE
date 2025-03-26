@@ -2,7 +2,7 @@
 title: Dokumentation om sårbarheter på webbplatsen
 description: Läs mer om sårbarheterna på webbplatsen och hur du använder den för att öka säkerheten på din webbplats.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -52,7 +52,9 @@ Du kan välja att ignorera poster från listan över säkerhetsluckor. Om du vä
 >[!ENDTABS]
 
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Automatisk optimering av sårbarheter för webbplatser](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 

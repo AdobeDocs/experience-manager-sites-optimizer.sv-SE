@@ -2,7 +2,7 @@
 title: Ogiltig eller saknad dokumentation för metadatamöjlighet
 description: Lär dig mer om ogiltiga eller saknade metadatamöjligheter och hur du kan använda dem för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: 850c1ed49d4ee117ece19c865a329f13b69bc8dc
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%
@@ -64,8 +64,9 @@ Du kan välja att ignorera poster med målbrutna eller ogiltiga metadata. Om du 
 
 >[!ENDTABS]
 
-## Optimera [!BADGE Ultimate] automatiskt{type=Positive tooltip="Ultimate"}
+## Automatisk optimering
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Automatisk optimering av föreslagna ogiltiga eller saknade metadata](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 
