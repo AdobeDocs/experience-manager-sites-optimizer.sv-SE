@@ -1,9 +1,9 @@
 ---
 title: AEM Sites Optimizer
-description: Det här är AEM Sites Optimizer landningssida.
-source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
+description: Förbättra webbplatsens prestanda med Sites Optimizer - öka hastigheten, minska kostnaderna och öka tillförlitligheten för bättre engagemang.
+source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
