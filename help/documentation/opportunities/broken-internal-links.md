@@ -2,15 +2,15 @@
 title: Dokumentation om affärsmöjlighet för brutna interna länkar
 description: Lär dig mer om de brutna länkarna och hur du kan använda dem för att förbättra engagemanget på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
 
 
-# Ogiltig eller saknad metadatamöjlighet
+# Möjlighet till brutna interna länkar
 
 ![Brutna interna länkmöjligheter](./assets/broken-internal-links/hero.png){align="center"}
 
