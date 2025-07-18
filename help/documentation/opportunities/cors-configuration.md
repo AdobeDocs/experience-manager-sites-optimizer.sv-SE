@@ -2,9 +2,9 @@
 title: Dokumentation för CORS-konfigurationsmöjlighet
 description: Lär dig mer om CORS konfigurationsmöjlighet och att identifiera och åtgärda säkerhetsluckor på platsen.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![CORS-konfigurationsmöjlighet](./assets/cors-configuration/hero.png){align="center"}
 
-Korrekt konfigurering av Cross-Origin Resource Sharing (CORS) är nödvändigt för att skydda webbapplikationer mot obehörig dataåtkomst. När rubriken `Access-Control-Allow-Origin` är inställd på `*` kan alla domäner begära och ta emot svar, vilket kan medföra att känslig information exponeras för angripare. Detta utgör en möjlighet att stärka säkerheten genom att implementera en kontrollerad tillåtelselista av betrodda domäner eller inaktivera CORS där det inte krävs. En säker CORS-konfiguration skyddar det privata innehållet samtidigt som man bibehåller den sömlösa åtkomsten för behöriga användare.
+Korrekt konfigurering av Cross-Origin Resource Sharing (CORS) är nödvändigt för att skydda webbapplikationer mot obehörig dataåtkomst. När rubriken `Access-Control-Allow-Origin` är inställd på `*` kan alla domäner begära och ta emot svar, vilket kan medföra att känslig information exponeras för angripare. Denna funktion ger möjlighet att stärka säkerheten genom att implementera en kontrollerad tillåtelselista av betrodda domäner eller inaktivera CORS där det inte behövs. En säker CORS-konfiguration skyddar det privata innehållet samtidigt som man bibehåller den sömlösa åtkomsten för behöriga användare.
 
 ## Automatisk identifiering
 

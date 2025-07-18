@@ -1,9 +1,9 @@
 ---
 title: Optimera engagemanget med Sites Optimizer
 description: Lär dig hur ni kan förbättra engagemanget med Sites Optimizer.
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Engagemangsmöjligheter](./assets/engagement/hero.png){align="center"}
 
-Engagemangsmöjligheter i AEM Sites Optimizer är avgörande för att förbättra digitala upplevelser genom att ge användbara insikter om hur användare interagerar med webbsidor. Genom att identifiera områden som kan förbättras - t.ex. tillgänglighetsproblem, interna länkar, hög avhoppsfrekvens och alternativ text som saknas - kan marknadsförare och innehållsförfattare optimera sina webbplatser för bättre prestanda och användarengagemang. Dessa möjligheter bidrar till att säkerställa att innehållet är effektivt, upptäckbart och övertygande, vilket i slutänden leder till högre konverteringar och en smidigare kundresa. Genom att utnyttja AEM Sites Optimizer rekommendationer kan teamen kontinuerligt förfina sin digitala strategi och leverera slagkraftiga upplevelser i stor skala.
+Engagemangsmöjligheter i AEM Sites Optimizer är avgörande för att förbättra digitala upplevelser genom att ge användbara insikter om hur användare interagerar med webbsidor. Genom att identifiera områden som kan förbättras - t.ex. tillgänglighetsproblem, interna länkar, hög avhoppsfrekvens och alternativ text som saknas - kan marknadsförare och innehållsförfattare optimera sina webbplatser för bättre prestanda och användarengagemang. Dessa möjligheter bidrar till att säkerställa att innehållet är effektivt, upptäckbart och övertygande, vilket i slutänden leder till högre konverteringar och en smidigare kundresa. Med AEM Sites Optimizer rekommendationer kan teamen kontinuerligt förfina sin digitala strategi och leverera slagkraftiga upplevelser i stor skala.
 
 
 ## Möjligheter

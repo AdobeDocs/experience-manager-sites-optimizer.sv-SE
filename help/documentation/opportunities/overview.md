@@ -1,9 +1,9 @@
 ---
 title: Dokumentation om Sites Optimizer-säljprojekt
 description: Lär dig mer om alla tillgängliga möjligheter för webbplatsoptimering och hur du använder dem för att förbättra webbplatsens prestanda.
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Möjligheter är tillgängliga via menyalternativet **Affärsmöjligheter** i [P
 
 ## Status för affärsmöjlighet
 
-Möjligheter kan sorteras och filtreras efter status med hjälp av flikarna längst upp:
+Använd flikarna längst upp för att ordna och filtrera möjligheter efter status.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ En historisk lista över möjligheter som har optimerats.
 
 ## Möjligheter
 
-Om du har markerat en [affärsmöjlighetsstatus](#opportunity-status) kan du visa en lista över affärsmöjligheter. Listan med affärsmöjligheter kan filtreras ytterligare av:
+Om du har markerat en [affärsmöjlighetsstatus](#opportunity-status) kan du visa en lista över affärsmöjligheter. Du kan filtrera listan över affärsmöjligheter på följande sätt:
 
 * **Sök** - Sök efter affärsmöjligheter med **nyckelord, taggar eller URL:er**.
 * **Affärsmöjlighetstyp** - Använd listrutan **Typ** för att filtrera affärsmöjligheter efter [affärsmöjlighetstyp](/help/opportunity-types/overview.md).
@@ -56,9 +56,10 @@ Om du har markerat en [affärsmöjlighetsstatus](#opportunity-status) kan du vis
 Varje möjlighet ger en kort beskrivning av problemet, dess potentiella inverkan på er webbplats och en länk till fullständig information. Du kan också se dess status och ange om den har optimerats eller fortfarande väntar.
 
 * **Affärsmöjlighetens titel** - En kort beskrivning av problemet och dess potentiella inverkan på webbplatsens prestanda.
-* **Senast uppdaterad** - Det datum då affärsmöjligheten senast uppdaterades av Sites Optimizer med nya data.
+* **Senast uppdaterad** - Sites Optimizer uppdaterade senast affärsmöjligheten med nya data detta datum.
+
 * **Antal problem** - Antalet instanser av problemet som har identifierats på din webbplats.
-* **Affärsmöjlighetstyp(er)** - [typ(er) av affärsmöjligheten](/help/opportunity-types/overview.md), den här affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang eller webbplatshälsa.
+* **Affärsmöjlighetstyper** - De [typer av affärsmöjlighet](/help/opportunity-types/overview.md) som affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang eller webbplatshälsa.
 
 Sammanfattningsinformationen för varje affärsmöjlighet varierar beroende på typ och kan innehålla information om intäktseffekter, trafik, användarengagemang eller säkerhetshot.
 

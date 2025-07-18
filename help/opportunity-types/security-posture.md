@@ -1,7 +1,7 @@
 ---
 title: Optimera säkerhetsläge med Sites Optimizer
 description: Lär dig hur du förbättrar säkerheten på din webbplats med Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Säkerhetsmöjligheter på plats](./assets/security-posture/hero.png){align="center"}
 
-Att upprätthålla en stark säkerhetsposition i AEM Sites Optimizer är avgörande för att skydda digitala upplevelser och användardata. Genom att identifiera möjligheter till förbättringar - som CORS-konfiguration, serveröverskridande skript, webbplatsbehörigheter och sårbarheter - kan man aktivt åtgärda potentiella säkerhetsrisker och säkerställa att gällande rutiner följs. En förstärkning av säkerhetsåtgärderna skyddar inte bara känslig information utan ökar även användarnas förtroende och tillförlitlighet. Genom att utnyttja AEM Sites Optimizer insikter kan man kontinuerligt övervaka och förbättra sin säkerhetsstrategi, minska riskerna och upprätthålla en säker digital miljö.
+Att upprätthålla en stark säkerhetsposition i AEM Sites Optimizer är avgörande för att skydda digitala upplevelser och användardata. Genom att identifiera möjligheter till förbättringar - som CORS-konfiguration, serveröverskridande skript, webbplatsbehörigheter och sårbarheter - kan man aktivt åtgärda potentiella säkerhetsrisker och säkerställa att gällande rutiner följs. En förstärkning av säkerhetsåtgärderna skyddar inte bara känslig information utan ökar även användarnas förtroende och tillförlitlighet. Med hjälp av AEM Sites Optimizer insikter kan man kontinuerligt övervaka och förbättra sin säkerhetsstrategi, minska riskerna och upprätthålla en säker digital miljö.
 
 ## Möjligheter
 

@@ -1,7 +1,7 @@
 ---
 title: Optimera webbplatshälsa med Sites Optimizer
 description: Lär dig hur du kan förbättra webbplatsens hälsa med Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Webbplatshälsomöjligheter](./assets/site-health/hero.png){align="center"}
 
-Att upprätthålla webbplatsernas hälsa i AEM Sites Optimizer är nödvändigt för att kunna leverera snabba, tillförlitliga och högpresterande digitala upplevelser. Genom att identifiera möjligheter till förbättringar - som Core Web Vitals - kan teamen optimera sidhastighet, interaktivitet och visuell stabilitet för att förbättra användarupplevelsen och rankningen i sökmotorer. En välunderhållen webbplats ger smidigare navigering, bättre engagemang och bättre prestanda. Genom att utnyttja AEM Sites Optimizer insikter kan ni kontinuerligt övervaka och förfina webbplatsen och säkerställa att den är effektiv över tid.
+Att upprätthålla webbplatsernas hälsa i AEM Sites Optimizer är nödvändigt för att kunna leverera snabba, tillförlitliga och högpresterande digitala upplevelser. Genom att identifiera möjligheter till förbättringar - som Core Web Vitals - kan teamen optimera sidhastighet, interaktivitet och visuell stabilitet för att förbättra användarupplevelsen och rankningen i sökmotorer. En välunderhållen webbplats ger smidigare navigering, bättre engagemang och bättre prestanda. Genom att använda AEM Sites Optimizer insikter kan du kontinuerligt övervaka och förfina webbplatsen och säkerställa att den är effektiv med tiden.
 
 ## Möjligheter
 
@@ -41,7 +41,7 @@ Att upprätthålla webbplatsernas hälsa i AEM Sites Optimizer är nödvändigt 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">Core web vitals</a>
                     </p>
-                    <p class="is-size-6">Läs om de viktigaste möjligheterna med webbartiklar och hur ni kan använda dem för att förbättra trafikförvärvet.</p>
+                    <p class="is-size-6">Läs mer om möjligheterna i Core Web Vitals och hur man använder det för att förbättra trafikförvärvet.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>

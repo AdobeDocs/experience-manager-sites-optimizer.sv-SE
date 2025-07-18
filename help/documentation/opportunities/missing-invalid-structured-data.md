@@ -2,9 +2,9 @@
 title: Dokumentation om saknade eller ogiltiga strukturerade data
 description: Lär dig mer om den saknade eller ogiltiga strukturerade datamöjligheter och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

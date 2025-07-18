@@ -2,9 +2,9 @@
 title: Dokumentation om begränsade konverteringsmöjligheter
 description: Läs om möjligheterna till låga konverteringsgrader och hur ni kan använda dem för att förbättra engagemanget på er webbplats.
 badgeFormOptimization: label="Formuläroptimering" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formuläroptimering"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Varje webbsida med ett formulär med låga konverteringar listas som sin egen **
 
 ![Föreslå låga konverteringar automatiskt](./assets/low-conversions/auto-suggest.png){align="center"}
 
-Automatiskt förslag innehåller AI-genererade webbsidesvarianter som är utformade för att öka konverteringen av formulären. Varje variation visar ökningen av **projektkonverteringsgraden** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
+Automatiskt förslag innehåller AI-genererade webbsidesvarianter som är utformade för att öka konverteringen av formulären. Varje variation visar ökning av konverteringsgraden för **projekt** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
 
 >[!BEGINTABS]
 

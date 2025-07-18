@@ -2,9 +2,9 @@
 title: Dokumentation för webbplatsbehörigheter för affärsmöjligheter
 description: Läs mer om möjligheterna till webbplatsbehörigheter och hur du använder dem för att öka säkerheten på din webbplats.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Behörighetsmöjlighet för webbplats](./assets/website-permissions/hero.png){align="center"}
 
-Webbplatsbehörigheterna kan optimera webbplatsbehörigheter, vilket är avgörande för att en säker och hanterbar AEM-miljö ska kunna upprätthållas. Med den här möjligheten kan du förfina åtkomstkontroller genom att ta bort alltför breda behörigheter, som `jcr:all` på generiska sökvägar som `/` eller `/content`, och anpassa användaråtkomst till principen om minst behörighet. Genom att effektivisera behörigheter och eliminera redundans kan du minska säkerhetsriskerna, förbättra underhållet och förhindra framtida felkonfigurationer. Vidta åtgärder genom att granska och uppdatera behörigheter i AEM säkerhetsbehörighetskonsol eller kodarkivet, så att tjänstanvändarna bara har den åtkomst de verkligen behöver.
+Webbplatsbehörigheterna kan optimera webbplatsbehörigheter, vilket är avgörande för att en säker och hanterbar AEM-miljö ska kunna upprätthållas. Med den här möjligheten kan du förfina åtkomstkontroller genom att ta bort alltför breda behörigheter, som `jcr:all` på generiska sökvägar som `/` eller `/content`, och anpassa användaråtkomst till principen om minst behörighet. Genom att effektivisera behörigheter och eliminera redundans kan du minska säkerhetsriskerna, förbättra underhållet och förhindra framtida felkonfigurationer. Granska och uppdatera behörigheter i AEM Security Permissions console eller i koddatabasen. På så sätt får användarna bara den åtkomst de verkligen behöver.
 
 ## Automatisk identifiering
 
@@ -23,8 +23,8 @@ Webbplatsbehörigheterna kan optimera webbplatsbehörigheter, vilket är avgöra
 Funktionen **Behörighetsmöjlighet** för webbplatser identifierar och visar automatiskt
 
 * **Användare** - Användarkontot med osäker behörighet.
-* **Sökväg** - Sökvägen i AEM som påverkas av behörigheten.
-* **Behörighet** - Behörigheten som är osäker.
+* **Sökväg** - Använd flikarna längst upp för att ordna och filtrera affärsmöjligheter efter status.
+* **Behörighet** - Den misstänkta behörigheten.
 * **Problem** - Anger vilken typ av problem som påverkar behörigheten.
 
 ## Föreslå automatiskt

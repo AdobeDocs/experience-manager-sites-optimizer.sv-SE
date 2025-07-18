@@ -1,9 +1,9 @@
 ---
 title: Formuläroptimering med Sites Optimizer
 description: Läs om formuläroptimering med Sites Optimizer.
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Formuläroptimeringsmöjligheter](./assets/form-optimization/hero.png){align="center"}
 
-Formuläroptimering i AEM Sites Optimizer är nödvändigt för att förbättra användarinteraktionen och maximera konverteringarna. Genom att identifiera områden som kan förbättras - t.ex. låga vyer och låga konverteringar av formulär - kan man förfina formulärdesign, placering och innehåll för att öka engagemanget. Optimerade formulär ger en smidig användarupplevelse, vilket gör det enklare för besökarna att slutföra åtgärder och få affärsresultat. Genom att utnyttja AEM Sites Optimizer insikter kan marknadsförarna kontinuerligt identifiera olika områden som förbättrats, vilket i slutänden ökar effektiviteten och förbättrar webbplatsens övergripande prestanda.
+Formuläroptimering i AEM Sites Optimizer är nödvändigt för att förbättra användarinteraktionen och maximera konverteringarna. Genom att identifiera områden som kan förbättras - t.ex. låga vyer och låga konverteringar av formulär - kan man förfina formulärdesign, placering och innehåll för att öka engagemanget. Optimerade formulär ger en smidig användarupplevelse, vilket gör det enklare för besökarna att slutföra åtgärder och få affärsresultat. Med hjälp av AEM Sites Optimizer insikter kan marknadsförarna kontinuerligt identifiera områden som förbättrats, vilket i slutänden ökar effektiviteten och förbättrar webbplatsens övergripande prestanda.
 
 ## Möjligheter
 

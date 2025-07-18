@@ -2,9 +2,9 @@
 title: Dokumentation om webbplatskartor för problem med affärsmöjlighet
 description: Lär dig mer om möjligheterna med webbplatskartor och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Möjlighet att skapa webbplatskartor](./assets/sitemap-issues/hero.png){align="center"}
 
-Med en komplett och korrekt webbplatskarta kan sökmotorer effektivt crawla och indexera webbsidor, vilket ger bättre synlighet i sökresultaten. Affärsmöjligheten på webbplatskartan identifierar potentiella problem med din webbplatskarta. Om du åtgärdar det här problemet kan sökmotorindexeringen och innehållsidentifieringen på din webbplats förbättras avsevärt.
+Med en komplett och korrekt webbplatskarta kan sökmotorer effektivt crawla och indexera webbsidor, vilket ger bättre synlighet i sökresultaten. Affärsmöjligheten på webbplatskartan identifierar potentiella problem med din webbplatskarta. Om du åtgärdar dessa problem kan sökmotorindexeringen och innehållsidentifieringen på din webbplats förbättras avsevärt.
 
 En sammanfattning visas längst upp på sidan, med en sammanfattning av problemet och dess inverkan på webbplatsen och verksamheten.
 
@@ -36,11 +36,11 @@ Problem med platskartor kan filtreras med följande kriterier:
 
 ![Identifiera klientfel för platskarta automatiskt](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
-Om URL:er i din webbplatskarta returnerar dessa, kan sökmotorer anta att din platskarta är inaktuell eller att sidorna av misstag har tagits bort. Klienten anger att klientens (webbläsaren eller crawlaren) begäran var ogiltig. Vanliga är:
+Om URL:er i din webbplatskarta returnerar dessa fel kan sökmotorer anta att din platskarta är inaktuell eller att sidorna av misstag har tagits bort. Klienten anger att klientens (webbläsaren eller crawlaren) begäran var ogiltig. Vanliga är:
 
 * **404 Det gick inte att hitta** - Den begärda sidan finns inte.
 * **403 Ej tillåtet** - Servern nekar åtkomst till den begärda sidan.
-* **410 Borttagen** - Sidan togs bort avsiktligt och kommer inte att returneras.
+* **410 Gone** - Sidan togs bort avsiktligt och returneras inte.
 * **401 Oauktoriserad** - Autentisering krävs men har inte angetts.
 
 Dessa fel kan skada SEO, särskilt om viktiga sidor returnerar **404 eller 410**, eftersom sökmotorer kan avindexera dem.

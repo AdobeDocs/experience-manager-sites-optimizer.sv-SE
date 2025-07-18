@@ -2,9 +2,9 @@
 title: Dokumentation om tillgänglighetsproblem för affärsmöjlighet
 description: Läs mer om möjligheterna med tillgänglighet och hur du använder den för att öka säkerheten på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Möjlighet till tillgänglighetsproblem](./assets/accessibility-issues/hero.png){align="center"}
 
-Möjligheten att skapa tillgänglighetsproblem identifierar hur bra din webbplats uppfyller behoven hos personer med funktionshinder och om de följer [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Genom att bedöma hur väl webbplatsen uppfyller WCAG-kraven kan du skapa en omfattande onlineupplevelse, så att personer med nedsatt syn, hörsel, kognitiv och motorik kan navigera i, interagera med och dra nytta av innehållet. Detta är inte bara nödvändigt av etiska skäl, utan det främjar också efterlevnad av juridiska krav, förbättrar SEO och kan öka er målgrupp, vilket förbättrar både användarupplevelsen och affärsprestandan.
+Möjligheten att skapa tillgänglighetsproblem identifierar hur bra din webbplats uppfyller behoven hos personer med funktionshinder och om de följer [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Genom att bedöma hur väl webbplatsen följer WCAG kan du skapa en omfattande onlineupplevelse. Det gör det möjligt för personer med nedsatt syn, hörsel, kognitiv och motorik att navigera, interagera med och dra nytta av innehållet. Den här funktionen är inte bara viktig av etiska skäl, den främjar också efterlevnad av juridiska krav, förbättrar SEO och kan öka er räckvidd, både för användare och företag.
 
 ## Automatisk identifiering
 

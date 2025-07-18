@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Basics
 description: Lär dig grunderna i Sites Optimizer och hur du navigerar i det.
-source-git-commit: 38e6921ab511b34e54fe97e7317ba1442a4d2121
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Sites Optimizer Dashboard ger en översikt på hög nivå över webbplatsens pre
 
 ![Domänhanterare för webbplatsoptimering](./assets/basics/domain-manager.png){align="center"}
 
-På snabbmenyn för domänhanteraren kan du välja vilken AEM-webbplats (per domän) du vill utvärdera och optimera. Sites Optimizer tillhandahåller en lista över alla AEM webbplatser som registrerats i [Cloud Manager](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+På snabbmenyn för domänhanteraren kan du välja vilken AEM-webbplats (per domän) du vill utvärdera och optimera. Sites Optimizer tillhandahåller en lista över alla AEM webbplatser som registrerats i [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigering
 
@@ -28,7 +28,7 @@ På snabbmenyn för domänhanteraren kan du välja vilken AEM-webbplats (per dom
 I navigeringsavsnittet får du snabb, permanent åtkomst till viktiga delar av Sites Optimizer från valfri plats i Sites Optimizer:
 
 * **Hem** - Huvudinstrumentpanelen med en översikt över webbplatsens prestanda och möjligheter till förbättringar.
-* **Affärsmöjligheter** - Visa och hantera de affärsmöjligheter som identifieras av Sites Optimizer, inklusive de som har optimerats och de som fortfarande är ooptimerade.
+* **Affärsmöjligheter** - Visa och hantera affärsmöjligheter som identifieras av Sites Optimizer, inklusive affärsmöjligheter som har optimerats eller förblir ooptimerade.
 * **Inställningar** - Konfigurera dina Sites Optimizer-inställningar, inklusive de webbplatser du övervakar och de meddelanden du får.
 
 ## Webbplatssammanfattning
@@ -50,7 +50,8 @@ I avsnittet Webbplatssammanfattning finns en ögonblicksbild av webbplatsens pre
 
 Avsnittet High Impact Opportunity (möjligheter med hög effekt) belyser de viktigaste väntande möjligheterna till förbättring, baserat på deras potentiella inverkan på webbplatsens prestanda. Dessa möjligheter är ordnade efter typ, vilket gör det enkelt att prioritera optimeringsarbetet.
 
-Möjligheter kan filtreras efter nyckelord, taggar eller URL:er, eller efter [typ av affärsmöjlighet](../opportunity-types/overview.md), så att du kan fokusera på de viktigaste områdena av förbättring.
+Filtrera möjligheter efter nyckelord, taggar, URL:er eller [typ av affärsmöjlighet](../opportunity-types/overview.md) för att fokusera på de viktigaste områdena av förbättring.
+
 
 ### Information om affärsmöjlighet
 
@@ -59,9 +60,9 @@ Möjligheter kan filtreras efter nyckelord, taggar eller URL:er, eller efter [ty
 Varje möjlighet ger en kort beskrivning av problemet, dess potentiella inverkan på er webbplats och en länk till fullständig information. Du kan också se dess status och ange om den har optimerats eller fortfarande väntar.
 
 * **Affärsmöjlighetens titel** - En kort beskrivning av problemet och dess potentiella inverkan på webbplatsens prestanda.
-* **Senast uppdaterad** - Det datum då affärsmöjligheten senast uppdaterades av Sites Optimizer med nya data.
+* **Senast uppdaterad** - Sites Optimizer uppdaterade senast affärsmöjligheten med nya data detta datum.
 * **Antal problem** - Antalet instanser av problemet som har identifierats på din webbplats.
-* **Affärsmöjlighetstyp(er)** - [typ(er) av affärsmöjligheten](../opportunity-types/overview.md) som den här affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang eller webbplatshälsa.
+* **Affärsmöjlighetstyper** - De [typer av affärsmöjlighet](../opportunity-types/overview.md) som affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang eller webbplatshälsa.
 
 Sammanfattningsinformationen för varje affärsmöjlighet varierar beroende på typ och kan innehålla information om intäktseffekter, trafik, användarengagemang eller säkerhetshot.
 

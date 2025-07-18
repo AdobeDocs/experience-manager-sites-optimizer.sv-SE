@@ -2,9 +2,9 @@
 title: Dokumentation om affärsmöjlighet som brutits
 description: Lär dig mer om den brutna bakåtlänksmöjligheten och hur du kan använda den för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,19 @@ Den brutna bakåtlänksmöjligheten ger även en AI-genererad förslag på vilke
 
 ![AI-logik vid autoförslag för brutna baklänkar](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}
 
-Välj ikonen **information** om du vill visa AI-logiken för den föreslagna URL:en. Motiveringen förklarar varför AI anser att den föreslagna URL:en är den lämpligaste för den brutna länken. Detta kan hjälpa er att förstå AI:s beslutsprocess och fatta ett välgrundat beslut om huruvida ni ska godkänna eller avvisa förslaget.
+Välj ikonen **information** om du vill visa AI-logiken för den föreslagna URL:en. Motiveringen förklarar varför AI anser att den föreslagna URL:en är den lämpligaste för den brutna länken. Det kan hjälpa er att förstå AI:s beslutsprocess och fatta ett välgrundat beslut om huruvida ni ska godkänna eller avvisa förslaget.
 
 >[!TAB Redigera mål-URL]
 
 ![Redigera föreslagen URL för trasiga bakgrunder](./assets/broken-backlinks/edit-target-url.png){align="center"}
 
-Om du inte håller med om det AI-genererade förslaget kan du redigera den föreslagna URL:en genom att välja **redigeringsikonen**. På så sätt kan du manuellt ange den URL som du tror passar bäst för den brutna länken. Sites Optimizer listar även andra URL:er på er webbplats som de tror kan passa för den brutna länken.
+Om du inte håller med om det AI-genererade förslaget kan du redigera den föreslagna URL:en genom att välja **redigeringsikonen**. När du redigerar kan du manuellt ange den URL som du tror passar bäst för den brutna länken. Sites Optimizer listar även andra URL:er på webbplatsen som den tror kan passa för den brutna länken.
 
 >[!TAB Ignorera poster]
 
 ![Ignorera brutna baklänkar](./assets/broken-backlinks/ignore.png){align="center"}
 
-Du kan välja att ignorera poster med den brutna mål-URL:en. Om du väljer ikonen **Ignorera** tas den brutna baklänken bort från affärsmöjlighetslistan. Ignorerade brutna baklänkar kan användas igen från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.
+Du kan välja att ignorera poster med den brutna mål-URL:en. Om du väljer ![Ta bort ikon eller ignorera ikon](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) tas den brutna baklänken bort från affärsmöjlighetslistan. Ignorerade brutna baklänkar kan användas igen från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.
 
 >[!ENDTABS]
 
@@ -66,7 +66,7 @@ Du kan välja att ignorera poster med den brutna mål-URL:en. Om du väljer ikon
 
 ![Optimera brutna bakgrunder automatiskt](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate ger möjlighet att automatiskt optimera för trasiga bakgrunder. Om du väljer **Automatisk optimering** uppdateras AEM-webbplatsens omdirigeringsregler automatiskt så att den **brutna mål-URL:en** mappas till den **föreslagna URL:en**. Detta garanterar att webbplatsbesökare och sökbotar som följer de brutna länkarna på de **refererande sidorna** dirigeras om till rätt sida på webbplatsen, vilket förbättrar SEO och användarupplevelsen.
+Sites Optimizer Ultimate ger möjlighet att automatiskt optimera för trasiga bakgrunder. Om du väljer **Automatisk optimering** uppdateras AEM-webbplatsens omdirigeringsregler automatiskt så att den **brutna mål-URL:en** mappas till den **föreslagna URL:en**. Med den här funktionen omdirigeras webbplatsbesökare och sökrobotar som följer de brutna länkarna på de **refererande sidorna** till rätt sida på webbplatsen, vilket förbättrar SEO och användarupplevelsen.
 
 >[!BEGINTABS]
 
@@ -74,7 +74,7 @@ Sites Optimizer Ultimate ger möjlighet att automatiskt optimera för trasiga ba
 
 ![Distribuera optimering av trasiga bakåtlänkar](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 
-Om du väljer **Distribuera optimering** uppdateras omdirigeringsreglerna för AEM-webbplatsen så att den **brutna mål-URL:en** mappas till den **föreslagna URL:en**. Detta garanterar att webbplatsbesökare och sökbotar som följer de brutna länkarna på de **refererande sidorna** dirigeras om till rätt sida på webbplatsen, vilket förbättrar SEO och användarupplevelsen.
+Om du väljer **Distribuera optimering** uppdateras omdirigeringsreglerna för AEM-webbplatsen så att den **brutna mål-URL:en** mappas till den **föreslagna URL:en**. Med den här funktionen omdirigeras webbplatsbesökare och sökrobotar som följer de brutna länkarna på de **refererande sidorna** till rätt sida på webbplatsen, vilket förbättrar SEO och användarupplevelsen.
 
 >[!TAB Begär godkännande]
 

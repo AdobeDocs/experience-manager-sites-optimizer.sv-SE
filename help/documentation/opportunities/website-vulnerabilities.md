@@ -2,9 +2,9 @@
 title: Dokumentation om sårbarheter på webbplatsen
 description: Läs mer om sårbarheterna på webbplatsen och hur du använder den för att öka säkerheten på din webbplats.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Sårbarheter på webbplatser](./assets/website-vulnerabilities/hero.png){align="center"}
 
-Webbplatsens sårbarheter identifierar säkerhetsluckor i tredjepartsbibliotek som används av programkoden. Säkerhetsluckorna kan utnyttjas av en angripare som ökar risken och minskar webbplatsens säkerhetsställning.
+Webbplatsens sårbarheter identifierar säkerhetsluckor i tredjepartsbiblioteken som används av programkoden. Angriparna utnyttjar sådana sårbarheter, ökar riskerna och minskar säkerhetspositionen för er webbplats.
 
 Webbplatsens sårbarheter innehåller en sammanfattning högst upp på sidan, inklusive följande:
 
@@ -37,7 +37,7 @@ Funktionen **Sårbarheter i webbplatser** identifierar och listar automatiskt s�
 
 ![Föreslå webbplatssårbarheter automatiskt](./assets/website-vulnerabilities/auto-suggest.png){align="center"}
 
-Automatiskt förslag ger AI-genererade förslag för den **rekommenderade versionen** av det sårbara biblioteket som du bör uppgradera till. Varje post har en **bakgrundsmusik** som anger dess övergripande allvarlighetsgrad, vilket hjälper dig att prioritera de viktigaste säkerhetsluckorna.
+Automatiskt förslag ger AI-genererade förslag för den **rekommenderade versionen** av ett känsligt bibliotek som du bör uppgradera till. Varje post har en **bakgrundsmusik** som anger dess övergripande allvarlighetsgrad, vilket hjälper dig att prioritera de viktigaste säkerhetsluckorna.
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ Varje säkerhetslucka innehåller en länk till den detaljerade informationen i 
 
 >[!TAB Ignorera poster]
 
-Du kan välja att ignorera poster från listan över säkerhetsluckor. Om du väljer ikonen **Ignorera** tas posten bort från listan. Ignorerade poster kan återkopplas från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+Du kan välja att ignorera poster från listan över säkerhetsluckor. Om du väljer ![Ta bort ikon](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) tas posten bort från listan. Ignorerade poster kan återkopplas från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 

@@ -1,9 +1,9 @@
 ---
 title: Optimera trafikförvärvet med Sites Optimizer
 description: Lär dig hur du kan öka trafiken med Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Trafikförvärv](./assets/traffic-acquisition/hero.png){align="center"}
 
-Trafikförvärv är nödvändigt för att få potentiella kunder att besöka er webbplats och skapa möjligheter för försäljning eller leadgenerering. Genom att utnyttja strategier som SEO (sökmotoroptimering) kan man förbättra söksynligheten och göra det enklare för användarna att hitta sitt innehåll. Ett stadigt flöde av besökare ökar inte bara varumärkeskännedomen och förtroendet, utan ger även värdefulla insikter i användarbeteenden, vilket hjälper teamen att förfina sina erbjudanden och förbättra den övergripande upplevelsen. Genom att utnyttja AEM Sites Optimizer insikter kan ni optimera kontinuerligt och få en hållbar tillväxt och bättre konverteringsgrad över tid.
+Trafikförvärv driver potentiella kunder till er webbplats och skapar försäljnings- eller ledmöjligheter. Genom att använda strategier som SEO (sökmotoroptimering) kan företag förbättra söksynligheten och göra det enklare för användarna att upptäcka sitt innehåll. Ett stadigt flöde av besökare ökar varumärkeskännedomen och skapar förtroende. Det ger även värdefulla insikter om användarbeteenden. Dessa insikter hjälper team att förfina sina erbjudanden och förbättra den övergripande upplevelsen. Med AEM Sites Optimizer insikter kan ni optimera kontinuerligt och få en hållbar tillväxt och bättre konverteringsgrad över tid.
 
 ## Möjligheter
 

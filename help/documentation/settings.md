@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer-inställningar
 description: Lär dig hur du konfigurerar Sites Optimizer-inställningar och integrerar med andra verktyg.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

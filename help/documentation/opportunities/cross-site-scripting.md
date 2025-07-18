@@ -2,7 +2,7 @@
 title: Dokumentation för serveröverskridande skriptmöjligheter
 description: Läs mer om cross-site scripting och att identifiera och åtgärda säkerhetsluckor.
 badgeSecurityPosture: label="Säkerhetsposition" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Säkerhetsposition"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Affärsmöjlighet mellan webbplatser](./assets/cross-site-scripting/hero.png){align="center"}
 
-Serveröverskridande skriptmöjligheter (cross-site scripting) identifierar och åtgärdar säkerhetsluckor i koden som kan utnyttjas av angripare för att lägga in skadliga skript på webbsidor som visas av andra användare. Dessa skript kan stjäla känslig information, t.ex. sessionscookies, eller utföra åtgärder för användarens räkning, t.ex. ändra användarens lösenord.
+Serveröverskridande skriptmöjligheter (cross-site scripting) identifierar sårbarheter i koden för din webbplats. Sedan åtgärdas problem som angripare kan utnyttja för att lägga in skadliga skript på webbsidor som andra användare kan visa. Dessa skript kan stjäla känslig information, t.ex. sessionscookies, eller utföra åtgärder för användarens räkning, t.ex. ändra användarens lösenord.
 
 ## Automatisk identifiering
 

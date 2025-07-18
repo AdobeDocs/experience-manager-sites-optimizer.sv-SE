@@ -2,9 +2,9 @@
 title: Ogiltig eller saknad dokumentation för metadatamöjlighet
 description: Lär dig mer om ogiltiga eller saknade metadatamöjligheter och hur du kan använda dem för att förbättra trafikförvärvet.
 badgeTrafficAcquisition: label="Trafikförvärv" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Trafikförvärv"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Ogiltig eller saknad metadatamöjlighet](./assets/missing-or-invalid-metadata/hero.png){align="center"}
 
-Den ogiltiga eller saknade metadatamöjligheten identifierar saknade eller felaktiga metadata på dina webbsidor. Genom att åtgärda metadataproblem får SEO förbättrats genom bättre synlighet för innehåll, sökrankningar och användarengagemang. Dessa problem kan bero på faktorer som saknade eller ogiltiga taggar, för långa eller för korta beskrivningar osv.
+Den ogiltiga eller saknade metadatamöjligheten identifierar saknade eller felaktiga metadata på dina webbsidor. Genom att åtgärda metadataproblem får SEO förbättrats genom bättre synlighet för innehåll, sökrankningar och användarengagemang. Sådana problem kan bero på faktorer som saknade eller ogiltiga taggar, för långa eller för korta beskrivningar osv.
 
 Den ogiltiga eller saknade metadatamöjligheten visar en sammanfattning högst upp på sidan, inklusive en sammanfattning av problemet och dess påverkan på webbplatsen och verksamheten.
 
@@ -28,7 +28,7 @@ Den ogiltiga eller saknade metadatamöjligheten visar en sammanfattning högst u
 I de ogiltiga eller saknade metadatamöjligheterna listas alla felaktiga metadata på dina sidor, och de innehåller följande:
 
 * **Sida** - Sidan som innehåller ogiltiga eller saknade metadata.
-* **Problem** - Anger vilken typ av problem som påverkar metadatataggen. Dessa kan omfatta allt från saknade titlar till dubbletter av H1 och så vidare.
+* **Problem** - Anger vilken typ av problem som påverkar metadatataggen. Dessa problem kan vara allt från saknade titlar till dubbletter av H1 och så vidare.
 * **Värde** - Det aktuella metadatataggsvärdet som måste ändras.
 * **Förslag** - Ett AI-genererat förslag på lämpliga tagguppdateringar. Mer information finns i avsnittet nedan.
 
@@ -42,25 +42,25 @@ Den ogiltiga eller saknade metadatamöjligheten ger även AI-genererade förslag
 
 >[!TAB AI-logik]
 
-Om du väljer **informationsikonen** visas AI-logiken för den föreslagna uppdateringen.
+Om du väljer ![Informationsikonen](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) visas AI-logiken för den föreslagna uppdateringen.
 
 >[!TAB  Redigera föreslaget metadatavärde ]
 
 ![Redigera föreslagna ogiltiga eller saknade metadata](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png){align="center"}
 
-Om du inte håller med om det AI-genererade förslaget kan du redigera det föreslagna metadatavärdet genom att välja **redigeringsikonen**. På så sätt kan du manuellt ange det värde som du tror passar bäst för metadata. Redigeringsfönstret innehåller följande:
+Om du inte håller med om det AI-genererade förslaget kan du redigera det föreslagna metadatavärdet genom att välja ikonen ![Ta bort](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg). Med den här funktionen kan du manuellt ange det värde som du tror passar bäst för metadata. Redigeringsfönstret innehåller följande:
 
 * **Sökväg** - Sökvägen till sidan som innehåller metadata (eller brist på).
 * **Utfärdandebeskrivning** - Anger den typ av problem som påverkar metadatataggen och en kort beskrivning.
 * **Förslag för taggvärde** - Det AI-genererade förslaget om hur metadatataggen ska ändras eller uppdateras. Exempel: hur många tecken ska tagguppdateringen innehålla och så vidare.
 * **Ursprungligt tagginnehåll** - det ursprungliga taggvärdet.
-* **Måltaggvärde** - Redigera det här fältet och lägg till det önskade taggvärdet manuellt. När du väljer **Spara** är det här värdet som kommer att användas för den föreslagna uppdateringen.
+* **Måltaggvärde** - Redigera det här fältet och lägg till det önskade taggvärdet manuellt. När du väljer **Spara** tillämpas värdet på den föreslagna uppdateringen.
 * **Förslag** - Det AI-genererade förslaget om hur du ändrar värdet.
 * **Spara** - Sparar och använder värdet i fältet **Måltagg**.
 
 >[!TAB Ignorera poster]
 
-Du kan välja att ignorera poster med målbrutna eller ogiltiga metadata. Om du väljer ikonen **Ignorera** tas posten bort från affärsmöjlighetslistan. Ignorerade poster kan återkopplas från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.
+Du kan välja att ignorera poster med målbrutna eller ogiltiga metadata. Om du väljer ![Ta bort ikon](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) tas posten bort från affärsmöjlighetslistan. Ignorerade poster kan återkopplas från fliken **Ignorerad** högst upp på affärsmöjlighetssidan.
 
 >[!ENDTABS]
 

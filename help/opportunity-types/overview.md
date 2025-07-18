@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer-säljprojekttyper
 description: Läs mer om de viktigaste möjligheterna i Sites Optimizer och hur de kan hjälpa dig att förbättra webbplatsens prestanda.
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,14 @@ ht-degree: 0%
 
 ![Affärsmöjlighetstyper](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer ger värdefull information och rekommendationer som hjälper dig att förbättra webbplatsens prestanda, användbarhet och säkerhet. Dessa insikter grupperas i nyckelområden: engagemang, trafikvärvning, säkerhetsläge och webbplatshälsa. Varje kategori beskriver specifika sätt att förbättra webbplatsen, antingen genom att öka besökarinteraktionen, förbättra upptäckbarheten, stärka säkerheten eller upprätthålla webbplatsens stabilitet.
+AEM Sites Optimizer ger värdefull information och rekommendationer som hjälper dig att förbättra webbplatsens prestanda, användbarhet och säkerhet. Dessa insikter grupperas i följande nyckelområden:
+
+* Engagemang
+* Trafikförvärv
+* Säkerhetsläge
+* Platshälsa
+
+För varje kategori visas ett sätt att förbättra webbplatsen. En kategori kan öka besökarens interaktion. Ett annat kan förbättra upptäckten. Andra fokuserar på att stärka säkerheten eller på att upprätthålla webbplatsens stabilitet.
 
 Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, locka rätt målgrupp och säkra och tillförlitliga webbplatser. Ökat engagemang och ökad trafik skapar interaktion och ökad synlighet, samtidigt som en stark säkerhetsposition och webbplatshälsa bidrar till att säkra tillit och stabilitet.  Utforska länkarna nedan för att se möjligheter ordnade efter kategori och hitta sätt att förbättra webbplatsen.
 
