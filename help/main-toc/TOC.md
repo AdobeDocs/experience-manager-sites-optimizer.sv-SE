@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 1%
    + [Engagemang](/help/opportunity-types/engagement.md)
    + [Webbplatshälsa](/help/opportunity-types/site-health.md)
    + [Säkerhetsposition](/help/opportunity-types/security-posture.md)
+   + [Forms Optimization](/help/opportunity-types/form-optimization.md)
+   + [Forms Accessibility](/help/opportunity-types/form-accesibility.md)
 + Dokumentation{#documentation}
    + [Ökning](/help/documentation/overview.md)
    + [Grunderna](/help/documentation/basics.md)
@@ -34,6 +36,10 @@ ht-degree: 1%
       + [Ogiltiga eller saknade metadata](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Saknade eller ogiltiga strukturerade data](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Alt-text saknas](/help/documentation/opportunities/missing-alt-text.md)
+      + [Forms low convertions](/help/documentation/opportunities/low-conversions.md)
+      + [Forms low views](/help/documentation/opportunities/low-views.md)
+      + [Forms low navigation](/help/documentation/opportunities/low-navigation.md)
+      + [Forms problem med tillgänglighet](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Problem med webbplatskarta](/help/documentation/opportunities/sitemap-issues.md)
       + [Webbplatsbehörigheter](/help/documentation/opportunities/website-permissions.md)
       + [Säkerhetsluckor på webbplatser](/help/documentation/opportunities/website-vulnerabilities.md)

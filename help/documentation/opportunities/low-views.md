@@ -1,32 +1,36 @@
 ---
 title: Dokumentation för affärsmöjlighet för låg vy
-description: Lär dig mer om möjligheterna med låga vyer och hur du kan använda dem för att förbättra engagemanget på din webbplats.
-badgeFormOptimization: label="Formuläroptimering" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formuläroptimering"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+description: Läs mer om möjligheterna med låga vyer och hur ni kan använda dem för att förbättra engagemanget för formulär på er webbplats.
+badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
 
-# Möjligheter till låg visning
+# Forms low views
+
+<span class="preview"> Funktionen Forms Optimizer är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Låga visningsmöjligheter](./assets/low-views/hero.png){align="center"}
 
-Möjligheten att få visningar identifierar formulär på webbplatsen som har låga visningsfrekvenser. Denna möjlighet hjälper er att förstå vilka formulär som inte fungerar bra och ger förslag på hur ni kan förbättra deras engagemangsgrad. Genom att optimera formulärvyerna kan du öka antalet formulärinskickade formulär och förbättra webbplatsens övergripande prestanda.
+Möjligheten att få visningar identifierar formulär på webbplatsen som har låga visningsfrekvenser. Den här typen av affärsmöjlighet hjälper er att förstå vilka formulär som inte fungerar bra och ger förslag på hur ni kan förbättra deras engagemangsgrad.
 
 ## Automatisk identifiering
 
 ![Identifiera låga vyer automatiskt](./assets/low-views/auto-identify.png){align="center"}
 
-Varje webbsida med ett formulär med låga vyer listas som sin egen **möjlighet med låga vyer**. En kort sammanfattning av affärsmöjligheten och AI-logiken visas högst upp på affärsmöjlighetssidan.
+Varje webbsida med formulär med låga vyer listas som sin egen **möjlighet med låga vyer**. En kort sammanfattning av affärsmöjligheten och logiken visas högst upp på affärsmöjlighetssidan.
 
 ## Föreslå automatiskt
 
 ![Föreslå låga vyer automatiskt](./assets/low-views/auto-suggest.png){align="center"}
 
-Automatiskt förslag innehåller AI-genererade webbsidesvarianter som är utformade för att öka visningen av formulären. Varje variation visar ökning av konverteringsgraden för **projekt** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
+Automatiskt förslag innehåller AI-genererade formulärvariationer som är utformade för att öka visningen av formulären. Varje variation visar den **beräknade konverteringsgraden ökning** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
 
 >[!BEGINTABS]
 
@@ -34,13 +38,13 @@ Automatiskt förslag innehåller AI-genererade webbsidesvarianter som är utform
 
 ![Kontrollvariationer](./assets/low-views/control-variation.png){align="center"}
 
-Kontrollvarianten är det ursprungliga formulär som för närvarande finns på webbplatsen. Den här variationen används som baslinje för att jämföra prestanda för de föreslagna variationerna.
+Kontrollvariationen är de originalformulär som för närvarande finns på webbplatsen. Den här variationen används som baslinje för att jämföra prestanda för de föreslagna variationerna.
 
 >[!TAB Föreslagna varianter]
 
 ![Föreslagna varianter](./assets/low-views/suggested-variations.png){align="center"}
 
-De föreslagna variationerna är AI-genererade webbsidesvarianter som är utformade för att öka visningen av formulären. Varje variation visar den **beräknade ökningen av konverteringsgraden** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
+De föreslagna variationerna är AI-genererade formulärvariationer som är utformade för att öka visningen av formulären. Varje variation visar den **beräknade konverteringsgraden ökning** baserat på dess potential att förbättra formulärengagemanget, vilket hjälper dig att prioritera de mest effektiva förslagen.
 
 Klicka på varje variant för att förhandsgranska den till höger på skärmen. Överst i förhandsgranskningen finns följande åtgärder och information:
 
@@ -50,25 +54,30 @@ Klicka på varje variant för att förhandsgranska den till höger på skärmen.
 
 >[!ENDTABS]
 
-## Automatisk optimering
+<!-- 
+
+## Auto-optimize
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Optimera automatiskt låga vyer](./assets/low-views/auto-optimize.png){align="center"}
+![Auto-optimize low views](./assets/low-views/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate lägger till möjligheten att automatiskt optimera för problem som kan uppstå vid visning i lågdager.
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low views opportunity.
 
 >[!BEGINTABS]
 
->[!TAB Testa flera]
+>[!TAB Test multiple]
 
 
->[!TAB Publicera markerade]
+>[!TAB Publish selected]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB Begär godkännande]
+>[!TAB Request approval]
 
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+-->
+

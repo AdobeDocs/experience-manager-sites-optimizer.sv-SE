@@ -1,19 +1,25 @@
 ---
-title: Formuläroptimering med Sites Optimizer
-description: Läs om formuläroptimering med Sites Optimizer.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+title: Forms Optimizer med Sites Optimizer
+description: Läs om Forms Optimizer med Sites Optimizer.
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 
-# Möjligheter till optimering av formulär
+# Optimeringsmöjligheter för Forms
 
-![Formuläroptimeringsmöjligheter](./assets/form-optimization/hero.png){align="center"}
+<span class="preview"> Funktionen Forms Optimizer är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
-Formuläroptimering i AEM Sites Optimizer är nödvändigt för att förbättra användarinteraktionen och maximera konverteringarna. Genom att identifiera områden som kan förbättras - t.ex. låga vyer och låga konverteringar av formulär - kan man förfina formulärdesign, placering och innehåll för att öka engagemanget. Optimerade formulär ger en smidig användarupplevelse, vilket gör det enklare för besökarna att slutföra åtgärder och få affärsresultat. Med hjälp av AEM Sites Optimizer insikter kan marknadsförarna kontinuerligt identifiera områden som förbättrats, vilket i slutänden ökar effektiviteten och förbättrar webbplatsens övergripande prestanda.
+>[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+
+<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+
+Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinteraktionen och öka konverteringsgraden. Genom att identifiera problem som låga vyer, låga konverteringsgrader och låga navigeringsgrader kan man göra datadrivna justeringar av formulärdesign, placering och innehåll. Dessa optimeringar hjälper till att effektivisera användarupplevelsen, vilket gör det enklare för besökarna att fylla i formulär och uppnå önskat resultat. Genom att utnyttja insikter från Forms Optimizer kan ni kontinuerligt identifiera och åtgärda prestandabrister, vilket ger effektivare blanketter och bättre affärsresultat.
 
 ## Möjligheter
 
@@ -44,7 +50,7 @@ Formuläroptimering i AEM Sites Optimizer är nödvändigt för att förbättra 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="Låga vyer">Låga vyer</a>
                     </p>
-                    <p class="is-size-6">Lär dig mer om möjligheterna med låga vyer och hur du kan använda dem för att förbättra engagemanget på din webbplats.</p>
+                    <p class="is-size-6">Läs mer om möjligheterna med låga vyer och hur ni kan använda dem för att förbättra engagemanget för formulär på er webbplats.</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -67,9 +73,32 @@ Formuläroptimering i AEM Sites Optimizer är nödvändigt för att förbättra 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="Låga konverteringar">Låga konverteringar</a>
                     </p>
-                    <p class="is-size-6">Läs om möjligheterna till låga konverteringsgrader och hur ni kan använda dem för att förbättra engagemanget på er webbplats.</p>
+                    <p class="is-size-6">Läs om möjligheterna till låga konverteringsgrader och hur ni kan använda dem för att förbättra engagemanget på era webbplatser.</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/low-navigation.md" title="Låg navigering" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Låg navigering"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="Tillgänglighetsfrågor">Låg navigering</a>
+                    </p>
+                    <p class="is-size-6">Lär dig mer om den låga navigeringsmöjligheten och hur du kan använda den för att förbättra engagemanget för formulär på din webbplats.</p>
+                </div>
+                <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>

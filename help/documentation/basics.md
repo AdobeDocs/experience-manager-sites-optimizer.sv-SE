@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Basics
 description: Lär dig grunderna i Sites Optimizer och hur du navigerar i det.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Sites Optimizer Dashboard ger en översikt på hög nivå över webbplatsens pre
 
 ![Domänhanterare för webbplatsoptimering](./assets/basics/domain-manager.png){align="center"}
 
-På snabbmenyn för domänhanteraren kan du välja vilken AEM-webbplats (per domän) du vill utvärdera och optimera. Sites Optimizer tillhandahåller en lista över alla AEM webbplatser som registrerats i [Cloud Manager](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+På snabbmenyn för domänhanteraren kan du välja vilken AEM-webbplats (per domän) du vill utvärdera och optimera. Sites Optimizer tillhandahåller en lista över alla AEM webbplatser som registrerats i [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigering
 
@@ -62,7 +62,7 @@ Varje möjlighet ger en kort beskrivning av problemet, dess potentiella inverkan
 * **Affärsmöjlighetens titel** - En kort beskrivning av problemet och dess potentiella inverkan på webbplatsens prestanda.
 * **Senast uppdaterad** - Sites Optimizer uppdaterade senast affärsmöjligheten med nya data detta datum.
 * **Antal problem** - Antalet instanser av problemet som har identifierats på din webbplats.
-* **Affärsmöjlighetstyper** - De [typer av affärsmöjlighet](../opportunity-types/overview.md) som affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang eller webbplatshälsa.
+* **Affärsmöjlighetstyper** - De [typer av affärsmöjlighet](../opportunity-types/overview.md) som den här affärsmöjligheten är en del av - till exempel trafikförvärv, engagemang, konvertering eller webbplatshälsa.
 
 Sammanfattningsinformationen för varje affärsmöjlighet varierar beroende på typ och kan innehålla information om intäktseffekter, trafik, användarengagemang eller säkerhetshot.
 

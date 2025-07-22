@@ -2,9 +2,9 @@
 title: Dokumentation om tillgänglighetsproblem för affärsmöjlighet
 description: Läs mer om möjligheterna med tillgänglighet och hur du använder den för att öka säkerheten på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -53,3 +53,7 @@ Sites Optimizer Ultimate lägger till möjligheten att driftsätta automatisk op
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+## Se även
+
+[Möjligheter till tillgänglighetsproblem i Forms](/help/documentation/opportunities/forms-accessibility-issues.md)
