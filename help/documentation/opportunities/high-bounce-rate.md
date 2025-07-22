@@ -2,7 +2,7 @@
 title: Dokumentation för högprisaffärsmöjlighet
 description: Lär dig mer om möjligheterna med låga vyer och hur du kan använda dem för att förbättra engagemanget på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%

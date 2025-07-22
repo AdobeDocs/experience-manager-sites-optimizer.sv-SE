@@ -1,7 +1,7 @@
 ---
 title: Dokumentation om Sites Optimizer-säljprojekt
 description: Lär dig mer om alla tillgängliga möjligheter för webbplatsoptimering och hur du använder dem för att förbättra webbplatsens prestanda.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%

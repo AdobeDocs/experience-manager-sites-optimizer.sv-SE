@@ -2,7 +2,7 @@
 title: Dokumentation om tillgänglighetsproblem för affärsmöjlighet
 description: Läs mer om möjligheterna med tillgänglighet och hur du använder den för att öka säkerheten på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
