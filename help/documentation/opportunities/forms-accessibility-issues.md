@@ -1,10 +1,10 @@
 ---
 title: Forms Accessibility Issues Opportunity Documentation
 description: Läs mer om möjligheterna med tillgänglighet i formulär och hur man använder dem för att förbättra tillgängligheten och användarupplevelsen på er webbplats.
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Möjligheter till tillgänglighetsproblem i Forms
 
-<span class="preview"> Funktionen Forms Optimizer är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Forms möjlighet att skapa tillgänglighetsproblem](./assets/forms-accessibility-issues/hero.png){align="center"}
 

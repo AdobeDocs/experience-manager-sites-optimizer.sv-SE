@@ -1,10 +1,10 @@
 ---
 title: Dokumentation för låg navigeringsmöjlighet
 description: Lär dig mer om den låga navigeringsmöjligheten och hur du kan använda den för att förbättra engagemanget för formulär på din webbplats.
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Forms low navigation possibilities
 
-<span class="preview"> Funktionen Forms Optimizer är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Låg navigeringsmöjlighet](./assets/low-navigation/hero.png){align="center"}
 

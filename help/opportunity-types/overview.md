@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer-säljprojekttyper
 description: Läs mer om de viktigaste möjligheterna i Sites Optimizer och hur de kan hjälpa dig att förbättra webbplatsens prestanda.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms Optimization">Forms-optimering</a>
                     </p>
-                    <p class="is-size-6">Läs om hur du kan förbättra konverteringen av formulär med Forms Optimizer.</p>
+                    <p class="is-size-6">Läs om hur du kan förbättra konverteringen av formulär med Forms Optimization.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -173,7 +173,7 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms Accessibility">Forms Accessibility</a>
                     </p>
-                    <p class="is-size-6">Läs om hur du kan förbättra formulärtillgängligheten med Forms Optimizer.</p>
+                    <p class="is-size-6">Läs om hur ni kan förbättra formulärtillgängligheten med Forms Optimization.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>

@@ -1,11 +1,11 @@
 ---
-title: Forms Optimizer med Sites Optimizer
-description: Läs om Forms Optimizer med Sites Optimizer.
+title: Forms Optimization with Sites Optimizer
+description: Läs om Forms Optimization with Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Optimeringsmöjligheter för Forms
 
-<span class="preview"> Funktionen Forms Optimizer är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
->[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+<!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+![Optimeringsmöjligheter för Forms](./assets/form-optimization/hero.png){align="center"}
 
-Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinteraktionen och öka konverteringsgraden. Genom att identifiera problem som låga vyer, låga konverteringsgrader och låga navigeringsgrader kan man göra datadrivna justeringar av formulärdesign, placering och innehåll. Dessa optimeringar hjälper till att effektivisera användarupplevelsen, vilket gör det enklare för besökarna att fylla i formulär och uppnå önskat resultat. Genom att utnyttja insikter från Forms Optimizer kan ni kontinuerligt identifiera och åtgärda prestandabrister, vilket ger effektivare blanketter och bättre affärsresultat.
+Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinteraktionen och öka konverteringsgraden. Genom att identifiera problem som låga vyer, låga konverteringsgrader och låga navigeringsgrader kan man göra datadrivna justeringar av formulärdesign, placering och innehåll. Dessa optimeringar hjälper till att effektivisera användarupplevelsen, vilket gör det enklare för besökarna att fylla i formulär och uppnå önskat resultat. Genom att utnyttja insikter från Forms Optimization kan ni kontinuerligt identifiera och åtgärda brister i prestanda, vilket ger effektivare blanketter och bättre affärsresultat.
 
 ## Möjligheter
 
@@ -40,7 +40,7 @@ Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinte
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-views.md" title="Låga vyer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Låga vyer"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Låga vyer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +63,7 @@ Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinte
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-conversions.md" title="Låga konverteringar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Låga konverteringar"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Låga konverteringar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinte
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-navigation.md" title="Låg navigering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Låg navigering"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Låg navigering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
