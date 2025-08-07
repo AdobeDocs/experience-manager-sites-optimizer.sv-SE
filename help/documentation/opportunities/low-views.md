@@ -4,17 +4,15 @@ description: Läs mer om möjligheterna med låga vyer och hur ni kan använda d
 badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 
 # Forms low views
-
-<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Låga visningsmöjligheter](./assets/low-views/hero.png){align="center"}
 
