@@ -4,15 +4,17 @@ description: Läs om möjligheterna till låga konverteringsgrader och hur ni ka
 badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
 
 # Forms möjlighet till lågkonverteringar
+
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Låga konverteringsmöjligheter](./assets/low-conversions/hero.png){align="center"}
 
