@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer-säljprojekttyper
 description: Läs mer om de viktigaste möjligheterna i Sites Optimizer och hur de kan hjälpa dig att förbättra webbplatsens prestanda.
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,11 @@ AEM Sites Optimizer ger värdefull information och rekommendationer som hjälper
 * Trafikförvärv
 * Säkerhetsläge
 * Platshälsa
+* Preflight
 
-För varje kategori visas ett sätt att förbättra webbplatsen. En kategori kan öka besökarens interaktion. Ett annat kan förbättra upptäckten. Andra fokuserar på att stärka säkerheten eller på att upprätthålla webbplatsens stabilitet.
+För varje kategori visas ett sätt att förbättra webbplatsen. En kategori kan öka besökarens interaktion. Ett annat kan förbättra upptäckten. Andra fokuserar på att stärka säkerheten eller på att upprätthålla webbplatsens stabilitet. Preflight hjälper dig att analysera och optimera sidor innan de publiceras.
 
-Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, locka rätt målgrupp och säkra och tillförlitliga webbplatser. Ökat engagemang och ökad trafik skapar interaktion och ökad synlighet, samtidigt som en stark säkerhetsposition och webbplatshälsa bidrar till att säkra tillit och stabilitet.  Utforska länkarna nedan för att se möjligheter ordnade efter kategori och hitta sätt att förbättra webbplatsen.
+Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, locka rätt målgrupp och säkra och tillförlitliga webbplatser. Ökat engagemang och ökad trafik skapar interaktion och ökad synlighet, samtidigt som en stark säkerhetsposition och webbplatshälsa bidrar till att säkra tillit och stabilitet. Preflight-analys säkerställer att innehållet optimeras innan det publiceras. Utforska länkarna nedan för att se möjligheter ordnade efter kategori och hitta sätt att förbättra webbplatsen.
 
 ## Typer av affärsmöjligheter
 
@@ -39,6 +40,8 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
+* ./preflight.md
+   { title = Preflight }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -181,7 +184,30 @@ Genom att utnyttja dessa möjligheter kan ni förbättra användarupplevelsen, l
             </div>
         </div>
     </div>
-
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./preflight.md" title="Preflight" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="Preflight"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="Preflight">Preflight</a>
+                    </p>
+                    <p class="is-size-6">Lär dig mer om preflight-analys och hur du ställer in preflight-möjligheter i Sites Optimizer.</p>
+                </div>
+                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+ </br>   
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
