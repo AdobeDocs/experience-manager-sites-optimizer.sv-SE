@@ -1,9 +1,9 @@
 ---
 title: Optimera engagemanget med Sites Optimizer
 description: Lär dig hur ni kan förbättra engagemanget med Sites Optimizer.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Engagemangsmöjligheter i AEM Sites Optimizer är avgörande för att förbättra digitala upplevelser genom att ge användbara insikter om hur användare interagerar med webbsidor. Genom att identifiera områden som kan förbättras - t.ex. tillgänglighetsproblem, interna länkar, hög avhoppsfrekvens och alternativ text som saknas - kan marknadsförare och innehållsförfattare optimera sina webbplatser för bättre prestanda och användarengagemang. Dessa möjligheter bidrar till att säkerställa att innehållet är effektivt, upptäckbart och övertygande, vilket i slutänden leder till högre konverteringar och en smidigare kundresa. Med AEM Sites Optimizer rekommendationer kan teamen kontinuerligt förfina sin digitala strategi och leverera slagkraftiga upplevelser i stor skala.
 
-
 ## Möjligheter
-
 
 <!-- CARDS
 
@@ -30,6 +28,9 @@ Engagemangsmöjligheter i AEM Sites Optimizer är avgörande för att förbättr
 * ../documentation/opportunities//high-bounce-rate.md
   {title=High bounce rate}
   {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/high-traffic-page-has-low-ctr.md
+  {title=High traffic page has low CTR}
+  {image=../assets/common/card-browser.png}
 * ../documentation/opportunities/missing-alt-text.md  
   {title=Missing alt text}
   {image=../assets/common/card-arrows.png}
@@ -101,6 +102,29 @@ Engagemangsmöjligheter i AEM Sites Optimizer är avgörande för att förbättr
                     <p class="is-size-6">Läs mer om möjligheterna med låga vyer och hur ni kan använda dem för att förbättra engagemanget för formulär på er webbplats.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="High traffic page has low CTR">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="Hög trafiksida har låg CTR" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="Hög trafiksida har låg CTR"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="Hög trafiksida har låg CTR">Sidan med hög trafik har låg CTR</a>
+                    </p>
+                    <p class="is-size-6">Lär dig mer om den höga trafiksidan har begränsade möjligheter att utnyttja CTR och hur du kan använda den för att öka engagemanget på din webbplats.</p>
+                </div>
+                <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>

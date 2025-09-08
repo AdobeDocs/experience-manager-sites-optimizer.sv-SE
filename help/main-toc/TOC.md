@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: fcdda7414b56f40ec0feaa9cdbfbe896643d0556
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [CORS-konfiguration](/help/documentation/opportunities/cors-configuration.md)
       + [Serveröverskridande skript](/help/documentation/opportunities/cross-site-scripting.md)
       + [Hög studsfrekvens](/help/documentation/opportunities/high-bounce-rate.md)
+      + [Hög trafiksida har låg CTR](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [Ogiltiga eller saknade metadata](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Saknade eller ogiltiga strukturerade data](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Alt-text saknas](/help/documentation/opportunities/missing-alt-text.md)
