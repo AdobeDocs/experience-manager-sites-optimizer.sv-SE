@@ -2,7 +2,7 @@
 title: Hög trafiksida har låg CTR-projektdokumentation
 description: Lär dig mer om den höga trafiksidan har begränsade möjligheter att utnyttja CTR och hur du kan använda den för att öka engagemanget på din webbplats.
 badgeEngagement: label="Engagemang" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagemang"
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Hög trafiksida har låg CTR-möjlighet
+# Hög trafiksida har begränsade CTR-möjligheter
 
 ![Hög trafiksida har låg CTR-möjlighet](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
@@ -20,7 +20,7 @@ Den höga trafiksidan har låg CTR-möjlighet att identifiera sidor på din webb
 
 ![Automatisk identifiering av sidor med hög trafik har låga CTR-problem](./assets/high-traffic-page-has-low-ctr/auto-identify.png){align="center"}
 
-Sidan **Hög trafik har låg CTR-möjlighet** identifierar sidor med låg CTR på webbplatsen och innehåller följande:
+Sidan **Hög trafik har låg CTR-möjlighet** och identifierar sidor med låg CTR på din webbplats. Den innehåller följande:
 
 * **Rekommendation** - Föreslagen åtgärd för att förbättra sidans CTR.
 * **Insight** - Förklaring av varför sidan har en låg CTR.
