@@ -1,9 +1,9 @@
 ---
-title: AEM Sites Optimizer - Handbok för preflight-introduktion
-description: Läs mer om preflight-möjligheter och hur du ställer in preflight-analys i AEM Sites Optimizer.
-source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
+title: Preflight-optimering med AEM Sites Optimizer
+description: Läs mer om preflight-möjligheter med AEM Sites Optimizer.
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Preflight-möjligheter](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer Preflight analyserar sidans tekniska data och prestandadata och förutser och identifierar möjligheter innan den publiceras. Den använder generativ AI för att föreslå optimeringar.</span>
+Med AEM Sites Optimizer preflight-möjligheter kan du säkerställa att dina webbsidor är optimerade för prestanda, SEO och användarupplevelse innan de publiceras. Genom att identifiera potentiella problem som brutna länkar, saknade metataggar och problem med tillgänglighet kan man med preflight-kontroller åtgärda dessa problem tidigt i publiceringsprocessen. Detta proaktiva tillvägagångssätt minimerar risken för att publicera suboptimalt innehåll, förbättrar webbplatsens kvalitet och förbättrar den totala digitala närvaron. Genom att utnyttja preflightmöjligheter får du ett smidigare arbetsflöde, färre postpubliceringskorrigeringar och bättre sökmotorrankning och nöjdare användare.
 
 ## Möjligheter
 
@@ -157,128 +157,141 @@ ht-degree: 0%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Så här konfigurerar du
+## Inställningar
 
-### Universal Editor Setup
+AEM Sites Optimizer Preflight-identifiering av affärsmöjligheter kräver att du har skapat Preflight-tillägget i antingen Universal Editor, Document-Based Preview eller AEM Cloud Service för att kunna köra preflight-granskningar på sidorna innan de publiceras.
 
-1. Gå till Extension Manager från URL:en: https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. Markera AEM Sites Optimizer Preflight-tillägget och begär att få aktivera
-3. AEM Team aktiverar tillägget för din organisation
-4. När du är klar öppnar du en sida i Universell redigerare, t.ex.: https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
-5. Preflight-tillägget visas i sidlisten
-6. Om du klickar på Preflight-tillägget från sidospåret startas Preflight-granskningen för den aktuella sidan
+## Aktivera användaråtkomst
 
-### Dokumentbaserad förhandsgranskning
+Om du vill använda preflight-tillägget måste du se till att din användare har tilldelats minst en av följande AEM Sites Optimizer-produktprofiler i [Adobe Admin Console](https://adminconsole.adobe.com):
 
-#### Steg 1: Aktivera Sidekick med Preflight-knappen
+* AEM Sites Optimizer - Föreslå användare automatiskt
+* AEM Sites Optimizer - Automatisk optimering av användare
 
-Lägg till följande konfiguration till `/tools/sidekick/config.json` i din GitHub-databas:
+## Aktivera Preflight-tillägget
 
-```json
-{
-  "plugins": [
-    {
-      "id": "preflight",
-      "titleI18n": {
-        "en": "Preflight"
-      },
-      "environments": ["preview"],
-      "event": "preflight"
-    }
-  ]
-}
-```
+>[!BEGINTABS]
 
-#### Steg 2: Skapa Sidekick Integration Script
+>[!TAB Universell redigerare]
 
-Skapa `/tools/sidekick/aem-sites-optimizer-preflight.js` med följande innehåll:
+Så här ställer du in Preflight i Universal Editor:
+
+1. Öppna **Extension Manager** på:
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+1. Leta reda på **AEM Sites Optimizer Preflight-tillägget** och skicka en begäran om att aktivera det.
+1. **Adobe AEM-teamet** granskar och aktiverar tillägget för din organisation.
+1. När tillägget har aktiverats öppnar du en sida i **Universell redigerare**, till exempel:
+   `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
+1. **Preflight-tillägget** visas i **sidospåret**.
+1. Välj **Preflight-tillägget** från sidospåret för att starta en **Preflight-granskning** av den aktuella sidan.
+
+>[!TAB Dokumentbaserad redigering]
+
+Så här ställer du in preflight för dokumentbaserad redigering:
+
+1. Lägg till följande konfiguration till `/tools/sidekick/config.json` i ditt Edge Delivery Services-projekts GitHub-databas:
+
+   ```json
+   {
+     "plugins": [
+       {
+         "id": "preflight",
+         "titleI18n": {
+           "en": "Preflight"
+         },
+         "environments": ["preview"],
+         "event": "preflight"
+       }
+     ]
+   }
+   ```
+
+1. Skapa en ny fil `/tools/sidekick/aem-sites-optimizer-preflight.js` och lägg till följande innehåll:
+
+   ```javascript
+   (function () {
+     let isAEMSitesOptimizerPreflightAppLoaded = false;
+     function loadAEMSitesOptimizerPreflightApp() {
+       const script = document.createElement('script');
+       script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
+       script.onload = function () {
+         isAEMSitesOptimizerPreflightAppLoaded = true;
+       };
+       script.onerror = function () {
+         console.error('Error loading AEMSitesOptimizerPreflightApp.');
+       };
+       document.head.appendChild(script);
+     }
+   
+     function handlePluginButtonClick() {
+       if (!isAEMSitesOptimizerPreflightAppLoaded) {
+         loadAEMSitesOptimizerPreflightApp();
+       }
+     }
+   
+     // Sidekick V1 extension support
+     const sidekick = document.querySelector('helix-sidekick');
+     if (sidekick) {
+       sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('helix-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   
+     // Sidekick V2 extension support
+     const sidekickV2 = document.querySelector('aem-sidekick');
+     if (sidekickV2) {
+       sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('aem-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   }());
+   ```
+
+1. Uppdatera funktionen `loadLazy()` i `/scripts/scripts.js` för att importera preflight-skriptet för förhandsgransknings-URL:er:
+
+   ```javascript
+   if (window.location.href.includes('.aem.page')) {
+      import('../tools/sidekick/aem-sites-optimizer-preflight.js');
+   }
+   ```
+
+1. Öppna förhandsgransknings-URL:en (`*.aem.page`) för sidan som du vill granska.
+1. I **Sidekick** klickar du på knappen **Preflight** för att starta granskningen av den aktuella sidan.
+
+>[!TAB AEM Sites Page Editor]
+
+Om du vill använda Preflight i AEM Sites Page Editor kan du skapa ett bokmärke i webbläsaren. Följ de här stegen:
+
+1. Visa **bokmärkesfältet** i webbläsaren:
+
+   * Tryck på **Ctrl+Skift+B** (Windows) eller **Cmd+Skift+B** (Mac).
+
+! Skapa ett nytt bokmärke i webbläsaren:
+
+* Högerklicka på bokmärkesfältet och välj **Ny sida** eller **Lägg till bokmärke**.
+* Klistra in följande kod i fältet **Adress (URL)**:
 
 ```javascript
-(function () {
-  let isAEMSitesOptimizerPreflightAppLoaded = false;
-  function loadAEMSitesOptimizerPreflightApp() {
-    const script = document.createElement('script');
-    script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
-    script.onload = function () {
-      isAEMSitesOptimizerPreflightAppLoaded = true;
-    };
-    script.onerror = function () {
-      console.error('Error loading AEMSitesOptimizerPreflightApp.');
-    };
-    document.head.appendChild(script);
-  }
-
-  function handlePluginButtonClick() {
-    if (!isAEMSitesOptimizerPreflightAppLoaded) {
-      loadAEMSitesOptimizerPreflightApp();
-    }
-  }
-
-  // Sidekick V1 extension support
-  const sidekick = document.querySelector('helix-sidekick');
-  if (sidekick) {
-    sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('helix-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-
-  // Sidekick V2 extension support
-  const sidekickV2 = document.querySelector('aem-sidekick');
-  if (sidekickV2) {
-    sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('aem-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-}());
-```
-
-#### Steg 3: Uppdatera skriptfil
-
-Lägg till följande import-sats i funktionen `loadLazy()` i `/scripts/scripts.js` för förhandsgransknings-URL:er, enligt nedan:
-
-```javascript
-if (window.location.href.includes('.aem.page')) {
-   import('../tools/sidekick/aem-sites-optimizer-preflight.js');
-}
-```
-
-Nu ska Preflight-knappen visas i Sidekick.
-
-#### Steg 4: Kör granskningen
-
-Öppna förhandsgranskningens URL (*.aem.page). Klicka på Preflight-knappen i Sidekick.
-
-### Installation av AEM Cloud-tjänst
-
-Du kan använda bokmärkesalternativet för att testa preflight på AEM Cloud Service Page Editors och Sandbox Environment.
-
-<!-- Drag the button below to your Bookmarks Bar to get started. -->
-
-Visa bokmärkesfältet genom att trycka på **Ctrl+Skift+B** (Windows) eller **Cmd+Skift+B** (Mac). Högerklicka på bokmärkesfältet och välj &quot;Ny sida&quot; eller &quot;Lägg till bokmärke&quot;. I adressfältet kopierar du koden nedan.
-
-<!-- **Drag this link to your Bookmarks Bar:**
-
-<a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
-
-**Kopiera den här koden och skapa ett nytt bokmärke:**
-
-```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-När du har lagt till bokmärket öppnar du förhandsgranskningens URL (*.aem.page). Klicka på preflight-bokmärket för att starta Preflight-granskningen.
+1. Namnge bokmärket **Preflight** (eller något annat namn du föredrar).
+1. Öppna förhandsgransknings-URL:en (`*.aem.page`) för sidan som du vill granska i **AEM Sites Page Editor**.
+1. Klicka på bokmärket **Preflight** i bokmärkesfältet för att starta granskningen av den aktuella sidan.
 
-## Bästa praxis
+>[!ENDTABS]
 
-Tänk på följande när du använder Preflight:
+## God praxis
 
-* Kör preflight-granskningar på alla mellanlagrings-/förhandsgranskningssidor före publicering.
-* Åtgärda problem med stor påverkan först (trasiga länkar, saknade H1-taggar, osäkra länkar).
-* Aktivera autentisering för skyddade staging-miljöer.
-* Granska och implementera förslag på metataggar för bättre SEO-prestanda.
+Tänk på följande när du kör preflight-granskningar:
+
+* Kör alltid granskningar på **mellanlagrings- eller förhandsgranskningssidor** innan du publicerar till produktion.
+* Prioritera lösningen av **viktiga problem**, till exempel brutna länkar, saknade H1-taggar eller osäkra länkar.
+* Kontrollera att **autentisering är aktiverat** för skyddade mellanlagringsmiljöer innan du kör granskningar.
+* Granska och använd **metataggrekommendationer** för att förbättra SEO-prestanda.

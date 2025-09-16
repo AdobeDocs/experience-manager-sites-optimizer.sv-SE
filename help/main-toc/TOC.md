@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
    + [Säkerhetsposition](/help/opportunity-types/security-posture.md)
    + [Forms Optimization](/help/opportunity-types/form-optimization.md)
    + [Forms Accessibility](/help/opportunity-types/form-accesibility.md)
-   + [Preflight-möjligheter](/help/opportunity-types/preflight.md)
+   + [Preflight](/help/opportunity-types/preflight.md)
 + Dokumentation{#documentation}
    + [Ökning](/help/documentation/overview.md)
    + [Grunderna](/help/documentation/basics.md)
