@@ -1,7 +1,7 @@
 ---
 title: Preflight-optimering med AEM Sites Optimizer
 description: Läs mer om preflight-möjligheter med AEM Sites Optimizer.
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 0%
@@ -161,14 +161,14 @@ Med AEM Sites Optimizer preflight-möjligheter kan du säkerställa att dina web
 
 AEM Sites Optimizer Preflight-identifiering av affärsmöjligheter kräver att du har skapat Preflight-tillägget i antingen Universal Editor, Document-Based Preview eller AEM Cloud Service för att kunna köra preflight-granskningar på sidorna innan de publiceras.
 
-## Aktivera användaråtkomst
+### Aktivera användaråtkomst
 
 Om du vill använda preflight-tillägget måste du se till att din användare har tilldelats minst en av följande AEM Sites Optimizer-produktprofiler i [Adobe Admin Console](https://adminconsole.adobe.com):
 
 * AEM Sites Optimizer - Föreslå användare automatiskt
 * AEM Sites Optimizer - Automatisk optimering av användare
 
-## Aktivera Preflight-tillägget
+### Aktivera Preflight-tillägget
 
 >[!BEGINTABS]
 
