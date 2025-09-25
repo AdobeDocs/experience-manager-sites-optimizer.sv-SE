@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,12 @@ ht-degree: 0%
       + [Problem med webbplatskarta](/help/documentation/opportunities/sitemap-issues.md)
       + [Webbplatsbehörigheter](/help/documentation/opportunities/website-permissions.md)
       + [Säkerhetsluckor på webbplatser](/help/documentation/opportunities/website-vulnerabilities.md)
+   + Preflight-möjligheter{#preflight-opportunities}
+      + [Ökning](/help/documentation/preflight/overview.md)
+      + [Inställningar](/help/documentation/preflight/setup.md)
+      + [Tillgänglighet](/help/documentation/preflight/accessibility.md)
+      + [H1-antal](/help/documentation/preflight/h1-count.md)
+      + [Länkar](/help/documentation/preflight/links.md)
+      + [Metadata](/help/documentation/preflight/meta-data.md)
+      + [Läsbarhet](/help/documentation/preflight/readability.md)
    + [Inställningar](/help/documentation/settings.md)

@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer
 description: Förbättra webbplatsens prestanda med Sites Optimizer - öka hastigheten, minska kostnaderna och öka tillförlitligheten för bättre engagemang.
-source-git-commit: 96fc971f592120b2fc82ee9db5d765c94940f63f
+source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455089/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som analyserar och förbättrar prestanda för webbplatser som bygger på AEM. Sites Optimizer identifierar områden där sidinläsning, komponentanvändning och innehållsleverans kan förbättras. Den här funktionen förbättrar webbplatsens prestanda samtidigt som underhålls- och uppdateringskostnaderna minskar. Genom att använda Sites Optimizer kan ni säkerställa en smidig och tillförlitlig onlineupplevelse, vilket är viktigt för att upprätthålla engagemang och konverteringar.
 
@@ -22,6 +22,9 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
     * {description = Learn about the available Site Optimizer opportunities and how to use them to improve your site's performance.}
+* ./opportunity-types/preflight.md
+  * {title=Preflight opportunities}
+  * {description = Learn about the Preflight opportunities in Sites Optimizer and how to optimize your web pages before they're even published.}
 * ./documentation/overview.md
   * {title=Documentation}
   * {description=Explore the Sites Optimizer documentation to learn about all its capabilities.}
@@ -81,7 +84,7 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
 ## Läs mer om Sites Optimizer
 
 <!-- CARDS 
-* https://helpx.adobe.com/se/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
@@ -100,7 +103,7 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://helpx.adobe.com/se/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="Paket och licenser" target="_blank" rel="referrer">
+                    <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="Paket och licenser" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="./assets/home/licensing.png" alt="Paket och licenser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -109,11 +112,11 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://helpx.adobe.com/se/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="Paket och licenser">Paket och licensiering</a>
+                        <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="Paket och licenser">Paket och licensiering</a>
                     </p>
                     <p class="is-size-6">Läs mer om AEM Sites Optimizer-paket och licenser.</p>
                 </div>
-                <a href="https://helpx.adobe.com/se/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
