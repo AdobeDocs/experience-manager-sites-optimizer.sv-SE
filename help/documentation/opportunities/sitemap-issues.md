@@ -68,7 +68,7 @@ Varje problem visas i en tabell där kolumnen **Sida** identifierar den berörda
 
 ## Föreslå automatiskt
 
-Varje platskartproblem [ som uppfyller filtervillkoren ](#auto-identify) visas i en tabell med följande kolumner:
+Varje platskartproblem [&#x200B; som uppfyller filtervillkoren &#x200B;](#auto-identify) visas i en tabell med följande kolumner:
 
 * **Sida** - URL:en för webbplatskartposten med ett problem.
 * **Förslag** - Den rekommenderade korrigeringen för problemet.
