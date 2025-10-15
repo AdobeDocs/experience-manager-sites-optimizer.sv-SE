@@ -90,7 +90,7 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/se/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}
@@ -126,7 +126,7 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="Utforska möjligheterna i AEM Sites Optimizer" target="_blank" rel="referrer">
+                    <a href="https://business.adobe.com/se/products/experience-manager/sites/optimizer.html" title="Utforska möjligheterna i AEM Sites Optimizer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="./assets/home/business-adobe-com.png" alt="Utforska möjligheterna i AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -135,11 +135,11 @@ Adobe Experience Manager (AEM) Sites Optimizer är en molnbaserad tjänst som an
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="Utforska möjligheterna i AEM Sites Optimizer">Utforska AEM Sites Optimizer</a>
+                        <a href="https://business.adobe.com/se/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="Utforska möjligheterna i AEM Sites Optimizer">Utforska AEM Sites Optimizer</a>
                     </p>
                     <p class="is-size-6">Läs om vad AEM Site Optimizer kan göra för ert företag.</p>
                 </div>
-                <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://business.adobe.com/se/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
