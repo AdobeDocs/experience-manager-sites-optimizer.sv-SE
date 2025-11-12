@@ -1,7 +1,7 @@
 ---
 title: Preflight-inställning
 description: Lär dig hur du konfigurerar Preflight-tillägget för AEM Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -124,14 +124,14 @@ Om du vill använda Preflight i AEM Sites Page Editor kan du skapa ett bokmärke
 
    * Tryck på **Ctrl+Skift+B** (Windows) eller **Cmd+Skift+B** (Mac).
 
-! Skapa ett nytt bokmärke i webbläsaren:
+1. Skapa ett nytt bokmärke i webbläsaren:
 
-* Högerklicka på bokmärkesfältet och välj **Ny sida** eller **Lägg till bokmärke**.
-* Klistra in följande kod i fältet **Adress (URL)**:
+   * Högerklicka på bokmärkesfältet och välj **Ny sida** eller **Lägg till bokmärke**.
+   * Klistra in följande kod i fältet **Adress (URL)**:
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. Namnge bokmärket **Preflight** (eller något annat namn du föredrar).
 1. Öppna förhandsgransknings-URL:en (`*.aem.page`) för sidan som du vill granska i **AEM Sites Page Editor**.
