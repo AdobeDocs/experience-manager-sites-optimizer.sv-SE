@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer-säljprojekttyper
 description: Läs mer om de viktigaste möjligheterna i Sites Optimizer och hur de kan hjälpa dig att förbättra webbplatsens prestanda.
-source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---

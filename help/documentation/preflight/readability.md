@@ -1,9 +1,9 @@
 ---
 title: Möjligheter till preflight-läsbarhet
 description: Läs mer om möjligheten att läsa preflight i Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Möjligheter till preflight-läsning finns på flera språk, bland annat:
 * Tyska
 * Nederländska
 
-Detta garanterar att teamen kan utvärdera och optimera läsbarheten för innehåll inom ett brett spektrum av målgrupper.
+Det garanterar att teamen kan utvärdera och optimera läsbarheten för innehåll inom ett brett spektrum av målgrupper.

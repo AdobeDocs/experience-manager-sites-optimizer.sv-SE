@@ -1,9 +1,9 @@
 ---
 title: Preflight-inställning
 description: Lär dig hur du konfigurerar Preflight-tillägget för AEM Sites Optimizer.
-source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Preflight-inställning
 
-AEM Sites Optimizer Preflight-identifiering av affärsmöjligheter kräver att du har skapat Preflight-tillägget i antingen Universal Editor, Document-Based Preview eller AEM Cloud Service för att kunna köra preflight-granskningar på sidorna innan de publiceras.
+AEM Sites Optimizer Preflight-identifiering av affärsmöjlighet kräver att du har konfigurerat Preflight-tillägget. Du kan konfigurera den i antingen Universal Editor, Document-Based Preview eller AEM Cloud Service så att du kan köra preflight-granskningar på sidorna innan de publiceras.
 
 ## Aktivera användaråtkomst
 
@@ -34,7 +34,7 @@ Så här ställer du in Preflight i Universal Editor:
 1. **Adobe AEM-teamet** granskar och aktiverar tillägget för din organisation.
 1. När tillägget har aktiverats öppnar du en sida i **Universell redigerare**, till exempel:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **Preflight-tillägget** visas i **sidospåret**.
+1. **Preflight-tillägget** visas i **sidlisten**.
 1. Välj **Preflight-tillägget** från sidospåret för att starta en **Preflight-granskning** av den aktuella sidan.
 
 >[!TAB Dokumentbaserad redigering]

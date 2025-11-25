@@ -1,27 +1,21 @@
 ---
-source-git-commit: a86e23640ee2bcd9f4811af73bfb6b199d96f234
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
 # Adobe uppförandekod
 
-## Vår redovisning
+## Adobe Pledge
 
-För att främja en öppen och välkommen miljö
-som bidrar till och underhåller engagerar sig i att delta i vårt projekt, och
-i vår community en trakasserfri upplevelse för alla, oavsett ålder, kropp
-Storlek, funktionshinder, etnicitet, könsidentitet och -uttryck, erfarenhetsnivå.
-nationalitet, personligt utseende, ras, religion eller sexuell identitet och
-orientering.
+För att främja en öppen och välkommen miljö lovar både medverkande och underhållande att göra deltagandet i ett projekt och samhället till en trakasserfri upplevelse för alla. Denna upplevelse är oberoende av ålder, kroppsstorlek, funktionshinder, etnicitet, könsidentitet och uttryck. Oavsett erfarenhetsnivå, nationalitet, personligt utseende, ras, religion eller sexuell identitet och läggning.
 
-## Våra standarder
+## Adobe-standarder
 
-Exempel på beteende som bidrar till att skapa en positiv miljö
-inkludera:
+Exempel på beteenden som bidrar till att skapa en positiv miljö är:
 
-* Välkomstspråk och inkluderande språk
+* Använda ett välkommet och inkluderande språk
 * Olika åsikter och erfarenheter respekteras
 * Ta väl emot konstruktiv kritik
 * Fokusera på vad som är bäst för communityn
@@ -29,50 +23,28 @@ inkludera:
 
 Exempel på oacceptabla beteenden från deltagarnas sida är:
 
-* Användning av sexuellt språk eller sexuella bilder och ovälkommen sexuell uppmärksamhet eller
-framsteg
+* Användning av sexualiserat språk eller foto och ovälkommen sexuell uppmärksamhet eller framsteg
 * Trollning, förolämpande/nedsättande kommentarer samt personliga eller politiska angrepp
 * Offentliga eller privata trakasserier
-* Publicera andras personuppgifter, t.ex. fysiska eller elektroniska
-adress, utan explicit tillstånd
-* Annat beteende som rimligen skulle kunna anses olämpligt i en
-professionell inställning
+* Publicera andras personuppgifter, t.ex. en fysisk eller elektronisk adress, utan uttryckligt tillstånd
+* Annat beteende som rimligen kan anses olämpligt i yrkesmässig miljö
 
-## Vårt ansvar
+## Adobe ansvarsområden
 
-Projektledare ansvarar för att förtydliga standarderna för godkända
-och förväntas vidta lämpliga och rättvisa korrigerande åtgärder i
-svar på alla fall av oacceptabla beteenden.
+Projektledare ansvarar för att förtydliga standarderna för godtagbart beteende och förväntas vidta lämpliga och rättvisa korrigerande åtgärder som svar på eventuella fall av oacceptabla beteenden.
 
-Projektansvariga har rätt och ansvar att ta bort, redigera eller
-avvisa kommentarer, implementeringar, kod, wiki-redigeringar, utgåvor och andra bidrag
-som inte är anpassade till denna uppförandekod, eller att tillfälligt förbjuda eller
-ständigt bidrar till andra beteenden som de anser olämpliga,
-hotande, stötande eller skadligt.
+Projektansvariga har rätt och ansvar att ta bort, redigera och avvisa kommentarer. Denna tillsyn omfattar åtaganden, kod, wiki-redigeringar, utleveranser eller andra bidrag som inte är kopplade till denna uppförandekod. Eller förbjuda tillfälligt eller permanent medverkande till andra beteenden som de tycker är olämpliga, hotfulla, stötande eller skadliga.
 
 ## Omfång
 
-Denna uppförandekod gäller både för projektutrymmen och offentliga platser
-när en individ representerar projektet eller dess community. Exempel på
-som representerar ett projekt eller en community som innehåller ett officiellt projektmejl
-adress, publicera via ett officiellt konto för sociala medier eller agera som utsedd
--representant vid online- eller offlineevent. En representation av ett projekt kan vara
-vidare definieras och förtydligas av projektansvariga.
+Denna uppförandekod gäller både inom projektutrymmen och på offentliga platser när en person representerar projektet eller dess community. Exempel på att representera ett projekt eller en community är att använda en officiell e-postadress för projektet. Det kan även omfatta publicering via ett officiellt konto för sociala medier. Det kan även omfatta att agera som utsedd representant vid online- eller offlineevent. Projektledarna kan ytterligare definiera och förtydliga representationen av ett projekt.
 
 ## Verkställande
 
-Fall av missbruk, trakasserier eller annat oacceptabelt beteende kan vara
-som rapporterats av kontaktpersoner hos projektgruppen på Grp-opensourceoffice@adobe.com. Alla
-Klagomålen kommer att granskas och undersökas och kommer att resultera i ett svar på att
-anses vara nödvändigt och lämpligt med hänsyn till omständigheterna. Projektgruppen är
-som är skyldiga att upprätthålla sekretess med avseende på uppgiftslämnaren av en incident.
-Ytterligare information om specifika efterlevnadspolicyer kan bokföras separat.
+Fall av missbruk, trakasserier eller på annat sätt oacceptabelt beteende kan rapporteras genom att kontakta projektgruppen på Grp-opensourceoffice@adobe.com. Alla klagomål granskas och utreds och kan resultera i ett svar som bedöms vara nödvändigt och lämpligt med hänsyn till omständigheterna. Projektgruppen är skyldig att upprätthålla sekretess med avseende på rapportören för en incident. Ytterligare information om specifika efterlevnadspolicyer kan bokföras separat.
 
-Projektledare som inte följer eller tillämpar uppförandekoden i gott skick
-tro kan få tillfälliga eller permanenta återverkningar som bestäms av andra
-projektledare.
+Projektledare som inte följer eller tillämpar uppförandekoden i god tro kan drabbas av tillfälliga eller permanenta konsekvenser som fastställs av andra medlemmar i projektets ledarskap.
 
 ## Attribut
 
-Den här uppförandekoden har anpassats från [Contributor-konventionen](https://contributor-covenant.org), version 1.4,
-finns på [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Den här uppförandekoden har anpassats från [Contributor-konventionen](https://www.contributor-covenant.org/), version 1.4, som finns på [Contributor-konventionen](https://www.contributor-covenant.org/version/1/4/code-of-conduct/).

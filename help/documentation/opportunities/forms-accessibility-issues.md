@@ -4,9 +4,9 @@ description: Läs mer om möjligheterna med tillgänglighet i formulär och hur 
 badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Möjligheter till tillgänglighetsproblem i Forms
 
-<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via ett program för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Forms möjlighet att skapa tillgänglighetsproblem](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-Möjligheten att skapa tillgänglighetsproblem för formulär identifierar hur väl formulären uppfyller behoven hos personer med funktionshinder och om de följer [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Genom att bedöma hur väl formulären överensstämmer med WCAG kan du skapa en heltäckande formulärupplevelse, som gör det möjligt för personer med nedsatt syn, hörsel, kognitiv och motorik att navigera i, interagera med och fylla i formulären. Detta är inte bara nödvändigt av etiska skäl, utan det främjar också efterlevnad av juridiska krav, förbättrar antalet ifyllda formulär och kan öka målgruppens räckvidd, vilket förbättrar både användarupplevelsen och affärsprestandan.
+Möjligheten att skapa tillgänglighetsproblem för formulär identifierar hur väl formulären uppfyller behoven hos personer med funktionshinder och om de följer [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Genom att bedöma hur väl formulären överensstämmer med WCAG kan du skapa en heltäckande formulärupplevelse. På så sätt kan personer med nedsatt syn, hörsel, kognitiv och motorik navigera, interagera med och fylla i formulären. Det är inte bara nödvändigt av etiska skäl, utan det främjar också efterlevnad av rättsliga krav. Det förbättrar också antalet ifyllda formulär och kan öka er räckvidd, både för användarna och för verksamheten.
 
 ## Automatisk identifiering
 
@@ -36,7 +36,7 @@ I **Forms tillgänglighetsproblem** identifieras tillgänglighetsproblem specifi
 
 ![Föreslå tillgänglighetsproblem automatiskt för formulär](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-Automatiskt förslag ger AI-genererade rekommendationer i fältet **Föreskrifter**, som ger prediktiv vägledning om vad som ska göras för att åtgärda formulärtillgänglighetsproblemet.
+Automatiskt förslag ger AI-genererade rekommendationer i fältet **Förslag** som ger prediktiv vägledning om vad som ska göras för att åtgärda formulärtillgänglighetsproblemet.
 
 <!-- 
 

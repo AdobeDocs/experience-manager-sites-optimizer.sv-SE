@@ -1,9 +1,9 @@
 ---
 title: Dokumentation om Sites Optimizer-säljprojekt
 description: Lär dig mer om alla tillgängliga möjligheter för webbplatsoptimering och hur du använder dem för att förbättra webbplatsens prestanda.
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '883'
 ht-degree: 0%
 
 ---
@@ -366,7 +366,7 @@ Utforska alla möjligheter i Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms low navigation">Forms låg navigering</a>
                     </p>
-                    <p class="is-size-6">Lär dig mer om formulärens låga navigeringsmöjligheter och hur du kan använda dem för att förbättra formulärengagemanget på din webbplats.</p>
+                    <p class="is-size-6">Lär dig mer om den låga navigeringsmöjligheten och hur du kan använda den för att förbättra formulärengagemanget på din webbplats.</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -389,7 +389,7 @@ Utforska alla möjligheter i Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms tillgänglighetsproblem">Forms tillgänglighetsproblem</a>
                     </p>
-                    <p class="is-size-6">Läs mer om möjligheterna med tillgänglighet i formulär och hur ni kan använda dem för att förbättra engagemanget på er webbplats.</p>
+                    <p class="is-size-6">Läs mer om tillgänglighetsproblemen i Forms och hur ni kan använda dem för att förbättra engagemanget på er webbplats.</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>

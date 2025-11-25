@@ -4,9 +4,9 @@ description: Lär dig mer om den låga navigeringsmöjligheten och hur du kan an
 badgeFormOptimization: label="Forms Optimization" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimization"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,12 @@ ht-degree: 0%
 
 # Forms low navigation possibilities
 
-<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via ett program för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Låg navigeringsmöjlighet](./assets/low-navigation/hero.png){align="center"}
 
-Den låga navigeringsmöjligheten identifierar formulär på webbplatsen som har låga navigeringsfrekvenser. Den här typen av affärsmöjlighet hjälper dig att förstå vilka formulär som inte identifieras eller nås av användare och ger förslag på hur de kan identifieras bättre.
+Den låga navigeringsmöjligheten identifierar formulär på webbplatsen som har låga navigeringsfrekvenser. Den här typen av affärsmöjlighet identifierar formulär som användare inte kan hitta eller komma åt och föreslår sätt att förbättra upptäckbarheten.
+
 
 ## Automatisk identifiering
 

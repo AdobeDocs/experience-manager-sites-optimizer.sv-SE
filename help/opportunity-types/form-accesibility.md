@@ -3,22 +3,22 @@ title: Forms Optimization with Sites Optimizer
 description: Läs om Forms Optimization with Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Möjligheter till Forms-tillgänglighet
+# Forms tillgänglighetsmöjligheter
 
-<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via ett program för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 ![Tillgänglighetsmöjligheter för Forms](./assets/form-accesibility/hero.png){align="center"}
 
 
-Forms möjligheter till tillgänglighet är avgörande för att förbättra användarinteraktionen och öka konverteringsgraden. Genom att utvärdera formulären så att de överensstämmer med Web Content Accessibility Guidelines (WCAG) får du en heltäckande upplevelse för användare med nedsatt syn, hörsel, kognitiv och motorik. Detta uppfyller inte bara etiska och juridiska krav utan förbättrar också antalet ifyllda formulär och breddar er målgrupp, vilket ger en bättre användarupplevelse och bättre affärsresultat.
+Forms möjligheter till tillgänglighet är avgörande för att förbättra användarinteraktionen och öka konverteringsgraden. Genom att utvärdera formulären så att de överensstämmer med Web Content Accessibility Guidelines (WCAG) får du en heltäckande upplevelse för användare med nedsatt syn, hörsel, kognitiv och motorik. Denna funktionalitet uppfyller inte bara etiska och juridiska krav utan förbättrar också antalet ifyllda formulär och breddar er målgrupp, vilket ger en bättre användarupplevelse och bättre affärsresultat.
 
 ## Möjligheter
 
@@ -49,7 +49,7 @@ Forms möjligheter till tillgänglighet är avgörande för att förbättra anv�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms tillgänglighetsproblem">Forms Accessibility issues</a>
                     </p>
-                    <p class="is-size-6">Läs mer om tillgänglighetsproblemen i formulär och hur du använder dessa för att förbättra engagemanget på din webbplats.</p>
+                    <p class="is-size-6">Läs mer om tillgänglighetsproblemen i formulär och hur ni kan använda dem för att förbättra engagemanget på er webbplats.</p>
                 </div>
                 <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>

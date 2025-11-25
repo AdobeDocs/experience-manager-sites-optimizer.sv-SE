@@ -1,7 +1,7 @@
 ---
 title: Preflight-möjligheter
 description: Dokumentation om Preflight-möjligheterna i Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Preflight-möjligheter](./assets/overview/hero.png){align="center"}
 
-Sites Optimizer preflight-möjligheter består av en uppsättning utvärderingar som analyserar olika aspekter av webbplatsens innehåll och struktur innan webbsidan publiceras. Dessa utvärderingar hjälper till att identifiera potentiella problem och ger användbara rekommendationer för att förbättra kvaliteten och prestandan på din webbplats.
+Sites Optimizer Preflight-möjligheter består av en uppsättning utvärderingar som analyserar olika aspekter av webbplatsens innehåll och struktur innan webbsidan publiceras. Dessa utvärderingar hjälper till att identifiera potentiella problem och ger användbara rekommendationer för att förbättra kvaliteten och prestandan på din webbplats.
 
 ## Preflight-inställning
 

@@ -3,9 +3,9 @@ title: Forms Optimization with Sites Optimizer
 description: Läs om Forms Optimization with Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Optimeringsmöjligheter för Forms
 
-<span class="preview"> Funktionen Forms Optimization är tillgänglig via programmet för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
+<span class="preview"> Funktionen Forms Optimization är tillgänglig via ett program för tidig åtkomst. Du kan skriva till aem-forms-ea@adobe.com från ditt officiella e-post-id för att gå med i programmet för tidig åtkomst och begära åtkomst till funktionen. </span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![Optimeringsmöjligheter för Forms](./assets/form-optimization/hero.png){align="center"}
 
-Med Forms optimeringsmöjligheter kan man systematiskt förbättra användarinteraktionen och öka konverteringsgraden. Genom att identifiera problem som låga vyer, låga konverteringsgrader och låga navigeringsgrader kan man göra datadrivna justeringar av formulärdesign, placering och innehåll. Dessa optimeringar hjälper till att effektivisera användarupplevelsen, vilket gör det enklare för besökarna att fylla i formulär och uppnå önskat resultat. Genom att utnyttja insikter från Forms Optimization kan ni kontinuerligt identifiera och åtgärda brister i prestanda, vilket ger effektivare blanketter och bättre affärsresultat.
+Tack vare Forms optimeringsmöjligheter kan man förbättra användarinteraktionen på ett systematiskt sätt och öka konverteringsgraden. Genom att upptäcka problem som låga vyer, låga konverteringsgrader och låga navigeringsgrader kan man göra datadrivna justeringar av formulärdesign, placering och innehåll. Dessa optimeringar hjälper till att effektivisera användarupplevelsen, vilket gör det enklare för besökarna att fylla i formulär och uppnå önskat resultat. Med hjälp av insikter från Forms Optimization kan ni kontinuerligt identifiera och åtgärda prestandabrister, vilket ger effektivare blanketter och bättre affärsresultat.
 
 ## Möjligheter
 

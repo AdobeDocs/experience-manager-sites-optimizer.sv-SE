@@ -1,9 +1,9 @@
 ---
 title: Preflight-optimering med AEM Sites Optimizer
 description: Läs mer om preflight-möjligheter med AEM Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![Preflight-möjligheter](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer [preflight-möjligheter](../documentation/preflight/overview.md) hjälper dig att se till att dina webbsidor är optimerade för prestanda, SEO och användarupplevelse innan de publiceras. Genom att identifiera potentiella problem som brutna länkar, saknade metataggar och problem med tillgänglighet kan man med preflight-kontroller åtgärda dessa problem tidigt i publiceringsprocessen. Detta proaktiva tillvägagångssätt minimerar risken för att publicera suboptimalt innehåll, förbättrar webbplatsens kvalitet och förbättrar den totala digitala närvaron. Genom att utnyttja preflightmöjligheter får du ett smidigare arbetsflöde, färre postpubliceringskorrigeringar och bättre sökmotorrankning och nöjdare användare.
+AEM Sites Optimizer [preflight-möjligheter](../documentation/preflight/overview.md) hjälper dig att se till att dina webbsidor är optimerade för prestanda, SEO och användarupplevelse innan de publiceras. Genom att identifiera potentiella problem som brutna länkar, saknade metataggar och problem med tillgänglighet kan man med preflight-kontroller åtgärda dessa problem tidigt i publiceringsprocessen. Detta proaktiva tillvägagångssätt minimerar risken för att publicera suboptimalt innehåll, förbättrar webbplatsens kvalitet och förbättrar den totala digitala närvaron. Med preflight-funktionerna får du ett smidigare arbetsflöde, färre postpubliceringskorrigeringar och bättre sökmotorrangordningar och nöjdare användare.
 
 ## Möjligheter
 
